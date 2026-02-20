@@ -15,8 +15,8 @@ st.set_page_config(
 # Title & description
 st.title("🛞 Slot Car Tire Search Database")
 st.markdown("""
-Search for compatible tires by **brand**, **model**, **compound** (Silicone / Urethane / Rubber) and more.
-Data includes Quick Slicks, Super Tires, Bobkat, Paul Gage, Indy Grip, Carrera OEM, NSR, Policar, etc.
+Search for compatible tires by **brand**, **model**, or **part number** (Quick Slicks / Super Tires).
+Data includes Artin, Avant Slot, BRM, Carrera, NSR, Scalextric, Fly, and many more.
 """)
 
 # ────────────────────────────────────────────────
@@ -48,14 +48,6 @@ df = load_data()
 with st.sidebar:
     st.header("Filters")
 
-    # Compound multi-select
-    all_compounds = sorted(df["Compound"].dropna().unique())
-    selected_compounds = st.multiselect(
-        "Compound",
-        options=["All"] + list(all_compounds),
-        default=["All"]
-    )
-
     # Brand select
     all_brands = sorted(df["Brand"].dropna().unique())
     selected_brand = st.selectbox(
@@ -67,14 +59,7 @@ with st.sidebar:
     # Model text search (partial match)
     model_search = st.text_input("Model (partial match, e.g. 'M4' or '917')").strip()
 
-    # Position
-    all_positions = sorted(df["Position"].dropna().unique())
-    selected_position = st.selectbox(
-        "Position",
-        options=["All"] + list(all_positions)
-    )
-
-    # Optional: free text search in Notes or Tire_Part
+    # Free text search in Notes / Part #
     free_search = st.text_input("Search in Notes / Part #").strip()
 
     st.markdown("---")
@@ -86,9 +71,6 @@ with st.sidebar:
 
 filtered_df = df.copy()
 
-if "All" not in selected_compounds:
-    filtered_df = filtered_df[filtered_df["Compound"].isin(selected_compounds)]
-
 if selected_brand != "All":
     filtered_df = filtered_df[filtered_df["Brand"] == selected_brand]
 
@@ -97,13 +79,11 @@ if model_search:
         filtered_df["Model"].str.contains(model_search, case=False, na=False)
     ]
 
-if selected_position != "All":
-    filtered_df = filtered_df[filtered_df["Position"].str.contains(selected_position, case=False, na=False)]
-
 if free_search:
     mask = (
         filtered_df["Notes"].str.contains(free_search, case=False, na=False) |
-        filtered_df["Tire_Part"].str.contains(free_search, case=False, na=False)
+        filtered_df["QuickSlicksPart"].str.contains(free_search, case=False, na=False) |
+        filtered_df["SupertiresPart"].str.contains(free_search, case=False, na=False)
     )
     filtered_df = filtered_df[mask]
 
@@ -118,8 +98,7 @@ if filtered_df.empty:
 else:
     # Choose columns to show (you can reorder/add/remove)
     display_cols = [
-        "Brand", "Model", "Compound", "Tire_Part",
-        "OD_mm", "Width_mm", "Position", "Notes", "Source"
+        "Brand", "Model", "QuickSlicksPart", "SupertiresPart", "Notes", "Source"
     ]
     # Only show columns that actually exist
     display_cols = [col for col in display_cols if col in filtered_df.columns]

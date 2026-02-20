@@ -1,869 +1,869 @@
-"Brand,Model,QuickSlicksPart,SupertiresPart,Notes,Source"
-"Artin,Mercedes CLK,CB33 CB34,1402,"
-"Artin,Porsche GT1,CB33 CB34,1402,"
-"Avant Slot,16.5 x 10mm Aluminum Wheel,N/A,1603,"
-"Avant Slot,Lotus Elise GT1,CB57 CB58,1407 1408 1409,"
-"Avant Slot,Peugeot 207,CB33,1403,"
-"Avant Slot,Porsche Kremer K8,CB33 CB34,1402 1403,"
-"Avant Slot,Porsche Spyder,CB57 CB58,1407 1408 1409,"
-"Black Arrow,Aston Martin DBR9,CB57 CB58,1407 1408 1409,"
-"Black Arrow,Lamborghini (""Black Bull""),N/A,1407 1408 1409,"
-"Black Arrow,GT3 Italia,N/A,1407 1408 1409,"
-"BRM,Alfa GTA (1:24),TS43 TS44,1503,"
-"BRM,BMW 2002 (1:24),TS43 TS44,1503,"
-"BRM,Chevrolet Camaro (1:24 - Trans Am),BR15,ST124BRMTARS,"
-"BRM,Ferrari 512 (1:24),BR01,N/A,"
-"BRM,Fiat Abarth 1000 (1:24),RS75,1501,"
-"BRM,Ford Escort (1:24),TS43 TS44,1503,"
-"BRM,Ford GT40 (1:24),BR01,N/A,"
-"BRM,Ford Mustang (1:24 - Trans Am),BR15,ST124BRMTARS,"
-"BRM,Group C (1:24),BR06,ST014 12409,"
-"BRM,McLaren F1 (1:24),BR11,N/A,"
-"BRM,Mini (1:24),DF134 TS43 TS44,1503,"
-"BRM,Opel Kadett GTE (1:24),TS43 TS44,1503,"
-"BRM,Porsche 911 (1:24),BR11,N/A,"
-"BRM,Porsche 917 (1:24),BR01,N/A,"
-"BRM,Porsche 962 (1:24),BR06,ST014 12409,"
-"BRM,S-110 22 x 9mm (1:32),CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"BRM,S-111 22 x 9mm (1:32),CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"BRM,Sauber C9 (1:24),BR06,ST014 12409,"
-"BRM,Toyota 88C,BR06,ST014 12409,"
-"BRM,Trans Am (1:24),BR15,ST124BRMTARS,"
-"Carrera,'57 Chevy Bel Air,CB29 CB30,1301,"
-"Carrera,'67 Corvette,CB30,1301,"
-"Carrera,Aston Martin Vantage GT3,CA02 CA03,1310,"
-"Carrera,Aston Martin DB5,CB30,1301,"
-"Carrera,Aston Martin DBR9 (1:24),N/A,12405,"
-"Carrera,Aston Martin Vanquish,CB30,1301,"
-"Carrera,Audi A4 DTM,CA02 CA03,1310,"
-"Carrera,Audi A5 DTM,CA02 CA03,1310,"
-"Carrera,Audi R8 GT (1:24),CA292,12401,"
-"Carrera,Audi R8 LMP (1:24),N/A,12412,"
-"Carrera,Audi R8 LMS,CA02 CA03,1310,NOTE: 1/24 Audi R8 LMS GT3 Evo II uses 12417"
-"Carrera,Audi R8 LMS GT3 Evo II (1:24),N/A,12417,"
-"Carrera,Audi RS 5 DTM,CA02 CA03,1310,"
-"Carrera,Audi RS 5 DTM (1:24),CA292,12401,"
-"Carrera,Audi R10 LMP (1:24),N/A,12413,"
-"Carrera,BMW 320 Turbo,CB52,1424,"
-"Carrera,BMW M1 (1:24),N/A,12411,"
-"Carrera,BMW M1 (1:32),CA21,1309,"
-"Carrera,BMW M3,N/A,1307,"
-"Carrera,BMW M4 DTM,CA02 CA03,1310,"
-"Carrera,BMW M4 GT3,CA02 CA03,1310,"
-"Carrera,BMW M4 GT3 (1:24),N/A,12417,"
-"Carrera,BMW M6 GT3,CA02 CA03,1310,"
-"Carrera,BMW Z4 GT3,CA02 CA03,1310,"
-"Carrera,Cheetah (1:24),N/A,12408,"
-"Carrera,Chevrolet Bel Air '57,CB29 CB30,1301,"
-"Carrera,Camaro (1969),CB30,1301,"
-"Carrera,Chevrolet Camaro (Concept),SC11,N/A,21.60mm x 11.20 mm"
-"Carrera,Chevrolet Camaro (1969 Drag),SC01,1601,"
-"Carrera,Chevrolet Camaro (Sherriff),SC11,N/A,"
-"Carrera,Chevrolet Camaro (Street),SC11,N/A,"
-"Carrera,Chevrolet '67 Corvette,CB30,1301,"
-"Carrera,Chevrolet Corvette C6R Race,CB59,1407 1408 1409 1410,"
-"Carrera,Chevrolet Corvette C6R Race,CA90,12404,"
-"Carrera,Chevrolet Corvette C7R,CA02,1307,"
-"Carrera,Chevrolet Corvette C7R (1:24),CA292,12401,"
-"Carrera,Chevrolet Corvette C8R,CA02,1310,"
-"Carrera,Chevrolet Corvette C8R (1:24),CA292,12401,"
-"Carrera,Chevrolet Corvette Gran Sport,N/A,12406,"
-"Carrera,Chevrolet Dekon Monza,CA02 CA03,1303,"
-"Carrera,Classic Nascar,CA06,N/A,"
-"Carrera,Dodge Charger 500 (Classic),CB30,1302,"
-"Carrera,Dodge Charger 500 (1968 Street),CA06,1302,"
-"Carrera,Dodge Charger SRT8,CA06,1302,"
-"Carrera,Dodge Daytona (Classic Nascar),CA06,1302,"
-"Carrera,DTM - All (1:32),CA02 CA03,1310,"
-"Carrera,DTM - All (1:24),CA292,12401,"
-"Carrera,F1 (2025),N/A,1304,"
-"Carrera,F1 (Modern),CA37,1306,"
-"Carrera,Ferrari 166,CB30,1301,"
-"Carrera,Ferrari 296 (1:24),N/A,12418,"
-"Carrera,Ferrari 296 (1:32),N/A,1310,"
-"Carrera,Ferrari 330 P4 (1:24),N/A,12407,"
-"Carrera,Ferrari 458,CA16,1308,"
-"Carrera,Ferrari 458 (1:24),N/A,12402,"
-"Carrera,Ferrari 488 (1:24),N/A,N/A,"
-"Carrera,Ferrari 488,CB59,1409,"
-"Carrera,Ferrari 512 (1:24),N/A,12414,"
-"Carrera,Ferrari 575,FL02 FL03,1003 1004,"
-"Carrera,Ferrari 575 (1:24),CA90,12404,"
-"Carrera,Ferrari 599,CA16,1308,"
-"Carrera,Ferrari (1:24),N/A,12402,"
-"Carrera,Ferrari Enzo,CB58,1408,"
-"Carrera,Ferrari FXX,FL03 NC03,1004,"
-"Carrera,Fire Truck,CA21,1309,"
-"Carrera,T'bird (1956),CB30,1301,"
-"Carrera,Ford Capri Group 5,CA21,1309,"
-"Carrera,Ford Capri Group 5 (1:24),N/A,12415,"
-"Carrera,Ford GT,N/A,1105,"
-"Carrera,Ford GT40 (1:24),N/A,12406,"
-"Carrera,Ford GT GTE,CA03,1105,"
-"Carrera,Ford GT GTE (1:24),CA292,12401,"
-"Carrera,Ford Mustang 1965,CB30,1301,"
-"Carrera,Ford Mustang Fire/Police,CA02 CA03,1310,"
-"Carrera,Ford Mustang GT3,N/A,1307,"
-"Carrera,Ford Mustang GT350,CB29,1204,"
-"Carrera,Ford Mustang Shelby GT350,N/A,1601,"
-"Carrera,Ford Mustang GTY,CA101,1313,"
-"Carrera,Ford Torino (Classic Nascar),CA06,1302,"
-"Carrera,Formula E,CA02,1310,"
-"Carrera,Francesco Bennolli,CA21,1309,"
-"Carrera,Green GT H2,CA02 CA03,1307,"
-"Carrera,Hot Rod (1:24),BR06,ST014,"
-"Carrera,KTM X Bow,CA02,1310,"
-"Carrera,Lamborghini Huracan (Race),CB58 CB59,1310,"
-"Carrera,Lamborghini Huracan (1:24),N/A,12417,"
-"Carrera,Lamborghini Huracan (Street),CB57,1310,"
-"Carrera,Lanci Beta Montecarlo,CB48,1007 1008 1009 2112 2114,"
-"Carrera,Lola T70 (1:24),N/A,12416,"
-"Carrera,Maserati A6GCS,CB30,1301,"
-"Carrera,McLaren 720S,CA02 CA03,1310,"
-"Carrera,McLaren M20 CanAm,N/A,1304,"
-"Carrera,Mercedes AMG GT3,CA02 CA03,1310,"
-"Carrera,Mercedes AMG C63 DTM,CA02 CA03,1310,"
-"Carrera,Mercedes AMG C63 DTM (1:24),CA292,12401,"
-"Carrera,Mercedes AMG C Klasse 2007,CA02 CA03,1307,"
-"Carrera,Mercedes SLR,NC02 NC03,1003 1004,"
-"Carrera,Mercedes SLS,CA16,1308,"
-"Carrera,Mustang GTY,CA101,1313,"
-"Carrera,NASCAR Camaro NextGen ZL1,CA105,1314,"
-"Carrera,NASCAR COT,CA02 CA03,1303,"
-"Carrera,NIO EP9,CB58,1408,"
-"Carrera,Panoz (1:24),N/A,12412,"
-"Carrera,Pantera De Tomaso,CB52,1315R,"
-"Carrera,Peugeot 908 HDI FAP,CA02 CA03,1404,"
-"Carrera,Plymouth Fury (1960),CB30,1301,"
-"Carrera,Plymouth Roadrunner (Classic),CA06,1302,"
-"Carrera,Plymouth Superbird (Classic),CA06,1302,"
-"Carrera,Pontiac GTO,CB30,1301,"
-"Carrera,Porsche 911 RSR,CA03,1310,"
-"Carrera,Porsche 911 RSR (1:24),CA292,12401,"
-"Carrera,Porsche 911 S Cabriolet,FLO2,1003,"
-"Carrera,Porsche 917/30 CanAm,N/A,1305,"
-"Carrera,Porsche 917K,CA21,1309,"
-"Carrera,Porsche 917K (1:24),N/A,12414,"
-"Carrera,Porsche 918 Spyder,FLO3,1004,"
-"Carrera,Porsche 935/19 GT2,CB64,1100BRS,"
-"Carrera,Porsche 935/78 Moby,CB64,1100BRS,"
-"Carrera,Porsche 997 GT3 (1:24),N/A,12410,"
-"Carrera,Porsche 911 GT3 R (1:24),N/A,12417,"
-"Carrera,Porsche GT3 RSR,CA02,1310,"
-"Carrera,Porsche GT3 (1:24),N/A,12401,NOTE: 1:24 Porsche 911 GT3 R (1:24) uses 12417"
-"Carrera,Porsche RS Spyder (1:24),N/A,12413,"
-"Carrera,Porsche RS Spyder,CB58,1408,"
-"Carrera,Race Truck,CA21,1309,"
-"Carrera,Tanker,CA21,1309,"
-"Carrera,Tow Truck,CA21,1309,"
-"Carrera,VW Beetle (Group 5),CA11 CA12,1312,"
-"Carrera,X Bow (KTM),CA02,1310,"
-"Cartrix,Alfa Romeo (Grand Prix),CB29,1204,"
-"Cartrix,Aston Martin (Grand Prix),CB29,1204,"
-"Cartrix,BMW Z3,CB34,1402,"
-"Cartrix,BRM (Grand Prix),CB29,1204,"
-"Cartrix,Bugatti (Grand Prix),CB29,1204,"
-"Cartrix,Ferrari D50 (Grand Prix),CB29,1204,"
-"Cartrix,Gordini (Grand Prix),CB29,1204,"
-"Cartrix,Gran Prix (Vintage F1),CB29,1204,"
-"Cartrix,Kurtis Kraft (Grand Prix),CB29,1204,"
-"Cartrix,Kurtis KK3000,CB29,1204,"
-"Cartrix,Lancia D50 (Grand Prix),CB29,1204,"
-"Cartrix,Lotus 16 (Grand Prix),CB29,1204,"
-"Cartrix,Maserati (Grand Prix),CB29,1204,"
-"Cartrix,Mercedes W196 (Grand Prix),CB29,1204,"
-"Cartrix,Porsche Boxter,CB34,1402,"
-"Cartrix,Talbot Lago (Grand Prix),CB29,1204,"
-"Cartrix,Vanwall (Grand Prix),CB29,1204,"
-"CB Design,14 x 6mm Wheels,CB07 CB08,N/A,"
-"CB Design,14 x 7mm Wheels,CB12 CB13,N/A,"
-"CB Design,14 x 8mm Wheels,CB17 CB18,N/A,"
-"CB Design,14.5 x 12mm (F1-Style) Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1425,"
-"CB Design,15 x 7mm Wheels,CB27 CB28 CB29 CB30,1204,"
-"CB Design,15 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"CB Design,15 x 10mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,"
-"CB Design,15 x 11mm Wheels,CB46 CB47 CB48 CB49,1007 1008 1009,"
-"CB Design,15 x 12mm Wheels,CB52 CB53,1424 1425,"
-"CB Design,15 x 13mm Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,"
-"CB Design,17 x 8mm Wheels,CB37 CB38 CB34,1400 1401 1402 1403 1404,"
-"CB Design,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"CB Design,17 x 11mm Wheels,CB41 CB42 CB43 CB44,1100CRS,Less typical (recommend gluing)"
-"CB Design,27 x 12mm Wheels (1:24 - Center,HR01,1100ARS 1100BRS 1100CRS,"
-"CB Design,27 x 12mm Wheels (1:24 - No,HR02,N/A,"
-"CB Design,27 x 18mm Wheels (1:24 - Center,HR11,N/A,"
-"FLY/GB Track,Chevron,CB46 CB47 CB48 CB49,1007 1008 1009,"
-"FLY,Classics,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,Daytona Prototype,N/A,1011,"
-"FLY,Dodge Viper (2004),FL02 FL03,1003 1004 1005,"
-"FLY,Ferrari 365 GTB/4,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,Ferrari 512,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,Ferrari F40,FL02 FL03,1003 1004,"
-"FLY,Ford Capri,,1010,"
-"FLY,Ford Capri Racing EVO3,CB33 CB34,1402 1403,"
-"FLY,Ford GT40,CB46 CB47 CB48 CB49,1007 1008 1009 2212 2114,"
-"FLY,Ford GT40 Mk II,CB46 CB47 CB48 CB49,1007 1008 1009 2212 2114,"
-"FLY,Joest Porsche WSC,FL02 FL03,1003 1004,"
-"FLY,Lancia Beta,N/A,1010,"
-"FLY,Lister Storm,FL02 FL03,1003 1004,"
-"FLY,Lola B98/10,FL02 FL03,1003 1004,"
-"FLY,Lotus 78,FL07,N/A,"
-"FLY,Lola T70,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,March 761,FL06,N/A,"
-"FLY,Marcos LM600,FL02 FL03,1003 1004,"
-"FLY,Panoz,N/A,1000 1001 1002,"
-"FLY,Porsche 906/Carrera 6,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,Porsche 908,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,"
-"FLY,Porsche 911,CB22,1422,"
-"FLY,Porsche 911 GT,FL02 FL03,1003 1004,"
-"FLY,Porsche 911 GT1 Racing EVO3,CB33 CB34,1402 1403,"
-"FLY,Porsche 917K,CB46 CB47 CB48 CB49,1007 1008 1009,"
-"FLY,Porsche 917 LH,CB46 CB47 CB48 CB49,1007 1008 1009,"
-"FLY,Porsche 935,N/A,1010,"
-"FLY,Porsche EVO,FL02 FL03,1003 1004,"
-"FLY,Saleen GT Racing EVO,CB33 CB34,1402 1403,"
-"FLY,Saleen S7R,FL02 FL03,1003 1004,"
-"FLY,Sunred,N/A,10,"
-"FLY,Trucks,FL91 FL92,N/A,"
-"FLY,Venturi 600,FL02 FL03,1003 1004,"
-"FLY,Viper,N/A,1000 1001,"
-"FLY,Viper (2004),FL02 FL03,1003 1004,"
-"FLY,Williams FW07,FL07,N/A,"
-"FLY,Williams FW08C,FL07,N/A,"
-"H&R Racing,27 x 12mm Wheels (1:24 - Center,HR01,N/A,"
-"H&R Racing,27 x 12mm Wheels (1:24 - No,HR02,N/A,"
-"H&R Racing,27 x 18mm Wheels (1:24 - Center,HR11,N/A,"
-"H&R Racing,27 x 18mm Wheels (1:24 - No,HR12,N/A,"
-"Monogram,Daytona Coupe,CB30,1301,"
-"Monogram,Corvette (1965),FL02 FL03,1003 1004,"
-"Monogram,Greenwood Corvette,CB23,1007 1425 1500 2112 2114,"
-"Monogram,Mustang,CB30,1423,"
-"Monogram,Lola T70,CB44,1405,"
-"Monogram,NASCAR (Vintage),N/A,1700,"
-"MR Slotcar,Corvette C1,CB29,1204,"
-"MR Slotcar,Ferrari 333 SP,CB33,1402,"
-"MR Slotcar,Ferrari 333 SP,CB42,1403,"
-"MR Slotcar,Jaguar XJ-220,CB33,1402,"
-"MR Slotcar,Jaguar XJ-220,CB42,1403,"
-"MR Slotcar,Mazda 787B,CB33,1402,"
-"MR Slotcar,Mazda 787B,CB42,1403,"
-"MR Slotcar,McLaren F1 GTR,CB33,1402,"
-"MR Slotcar,McLaren F1 GTR,CB42,1403,"
-"MR Slotcar,Porsche 911 GT1 EVO,CB33,1402,"
-"MR Slotcar,Porsche 911 GT1 EVO,CB42,1403,"
-"MR Slotcar,Shadow DN4,CB44,1405,"
-"MRRC,Chaparral,CB36,1405,"
-"MRRC,Cheetah,CB36,2000,"
-"MRRC,Cobra,CB36,2000,"
-"MRRC,Ford GT Mk IV,CB36,2000,"
-"MRRC,Jaguar MK1,CB36,2000,"
-"MRRC,Kellison,CB36,2000,"
-"MRRC,King Cobra,CB36,2000,"
-"MRRC,Porsche 904 GTS,CB36,2000,"
-"MRRC,Porsche 910,CB36,1700 2000,"
-"MRRC,Porsche 911,CB36,2000,"
-"MRRC,Sebring Chassis,CB36,2000,"
-"Ninco,Acura LMP,NC02 NC03,1200 1201,"
-"Ninco,Audi TT,NC02 NC03,1200 1201,"
-"Ninco,Austin Healey,CB28,1204 1301,"
-"Ninco,BMW M3 GTR,NC02 NC03,1200 1201,"
-"Ninco,BMW V12,NC02 NC03,1200 1201,"
-"Ninco,Chevrolet Corvette 56',CB28,1301,"
-"Ninco,Chevrolet Corvette Callaway C12,NC02 NC03,1200 1201,"
-"Ninco,Chevrolet Corvette Z06 GT3,NC02 NC03,1200 1201,"
-"Ninco,Chevrolet Cruz,NC02 NC03,1200 1201,"
-"Ninco,Classics (Exc. Cobra),CB28,1204 1301,"
-"Ninco,F1,N/A,1202,"
-"Ninco,Ferrari 166 MM Barchetta,CB28,1204 1301,"
-"Ninco,Ferrari 250 Testarossa,CB28,1204 1301,"
-"Ninco,Ferrari F360,NC02 NC03,1200 1201,"
-"Ninco,Ford GT,NC02 NC03,1200 1201,"
-"Ninco,Ford Mustang,NC02 NC03,1200 1201,"
-"Ninco,Honda NSX,NC02 NC03,1200 1201,"
-"Ninco,IRL,N/A,1202,"
-"Ninco,Jaguar E-Type,CB28,1204 1301,"
-"Ninco,Jaguar XK120,CB28,1204 1301,"
-"Ninco,Karts,N/A,1203,"
-"Ninco,Lamborghini Gallardo,NC02 NC03,1200 1201,"
-"Ninco,Lamborghini Murcielago,NC02 NC03,1200 1201,"
-"Ninco,Lexus SC430,NC02 NC03,1200 1201,"
-"Ninco,Lightning Pro Race,CB57 CB58 CB59,1407 1408,"
-"Ninco,Lotus Exige GT3,NC02 NC03,1200 1201,"
-"Ninco,McLaren F1 GTR,NC02 NC03,1200 1201,"
-"Ninco,Mercedes CLK,NC02 NC03,1200 1201,"
-"Ninco,Mercedes DTM,NC02 NC03,1200 1201,"
-"Ninco,Mini Cooper,N/A,1402,"
-"Ninco,Mosler MT900,NC02 NC03,1200 1201,"
-"Ninco,Mustang,NC02 NC03,1200 1201,"
-"Ninco,Nissan 350Z,NC02 NC03,1200 1201,"
-"Ninco,Porsche 356,CB28,1204 1301,"
-"Ninco,Porsche 550 Spyder,CB28,1204 1301,"
-"Ninco,Porsche 997,NC02 NC03,1200 1201,"
-"Ninco,Porsche GT1,NC02 NC03,1200 1201,"
-"Ninco,Pro-Race 15 Wheels (#80718),CB34,1400 1401 1402 1403 1404,"
-"Ninco,Pro-Race Wheel (#80740),NC02,1200 1201,"
-"Ninco,Rally,N/A,1402,"
-"Ninco,Renault Megane,NC02 NC03,1200 1201,"
-"Ninco,Toyota Supra,NC02 NC03,1200 1201,"
-"NSR,NSR5001 16 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride"
-"NSR,NSR5002 16 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,Air Ride"
-"NSR,NSR5002 16 x 8mm Wheels,DF132 DF133 DF134,1400 1401 1402 1403 1404,No Air Ride"
-"NSR,NSR5003 17 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride"
-"NSR,NSR5004 17 x 10mm Wheels,CB57 CB58 CB59,1407 1408,Air Ride"
-"NSR,NSR5004 17 x 10mm Wheels,DF157 DF158 DF159,1407 1408,No Air Ride"
-"NSR,NSR5005 14.5 x 12.2mm F1,CB71 CB72,1424 1425,"
-"NSR,NSR5009 16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride"
-"NSR,NSR5010 16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,Air Ride"
-"NSR,NSR5010 16.5 x 8mm Wheels,DF132 DF133 DF134,2102 2104,No Air Ride"
-"NSR,NSR5015 16 x 10mm Wheels,CB41 CB42 CB43 CB44,2102 2104,Air Ride; 1100CRS lower than CB43 CB44"
-"NSR,NSR5015 16 x 10mm Wheels,DF157 DF158 DF159,1407 1408,Air Ride"
-"NSR,NSR5016 16 x 10mm Wheels,CB41 CB42 CB43 CB44,1100CRS,Air Ride; 1100CRS lower than CB43 CB44"
-"NSR,NSR5016 16 x 10mm Wheels,DF157 DF158 DF159,1407 1408 1409,No Air Ride"
-"NSR,NSR5017 17 x 10mm Wheels,CB57 CB58 CB59,1408 1409 1410,"
-"NSR,NSR5021 13 x 10mm Wheels,NR001,N/A,"
-"NSR,Abarth 500 Assetto Corse,CB32,1402,"
-"NSR,Abarth S2000,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Aston Martin Vantage GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Audi R18 TDI LMP1,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Audi R8 LMS,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,BMW Z4 GTE,CB58 DF158,1408,"
-"NSR,Chevrolet Corvette C6R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Chevrolet Corvette C7R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Chevrolet Corvette C8R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,F1 (#NSR5005),CB71 CB72,1424 1425,"
-"NSR,F1 Formula 22,NC03,1201 2112,"
-"NSR,F1 Formula 86/89,NR001,1108,1108 is new tire 11/25"
-"NSR,Ford GT40 Mk I,CB34,1403 1404,"
-"NSR,Ford GT40 Mk II,CB34,1403 1404,"
-"NSR,Ford GT40 Mk IV,CB34,1403 1404,"
-"NSR,Ford P68,CB34 CB35,1403 1404,CB35 closest to stock OD"
-"NSR,Lola T280/T290,CB34 DF134,1403 1404,"
-"NSR,McLaren 720S,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Mercedes AMG GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Mosler MT900R,CB43 DF159,1403 1404 1405,CB43 - Air Ride DF159 - No Air Ride"
-"NSR,Porsche 908/3,CB35,1403 1404 1405,"
-"NSR,Porsche 917/10K,CB44 (Air Ride) TS44,1403 1404 1405,"
-"NSR,Porsche 917K,CB34,1403 1404 1405,"
-"NSR,Porsche 997 GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Porsche 997 Rally,CB58 DF158,1401,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Renault Clio Cup,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"NSR,Renault Clio R3 Rally,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride"
-"Pioneer,Bullitt Mustang,CB28,1301,"
-"Pioneer,Camaro (Race Liveries),PN150,1900,"
-"Pioneer,Camaro (Street),CB28,1301,"
-"Pioneer,Charger,CB29,1901,"
-"Pioneer,Mustang (Bullitt),CB28,1301,"
-"Pioneer,Mustang (Race Liveries),PN150,1900,"
-"Pioneer,Mustang Notchback (TransAm),PN150,1900,"
-"Pioneer,Legends,PN150,1900,"
-"Policar,BRM P160,CB53,1425,"
-"Policar,Ferrari 126,PC010,1423 1424 1425,"
-"Policar,Ferrari 312 PB,CB53,1404 1405,"
-"Policar,Ferrari 330 P4,CB35,1404 1405+D354+D359,"
-"Policar,Ferrari 412P,CB35,1404 1405,"
-"Policar,Ferrari F40,CB58,1408,Motor shaft length may need to be trimmed slightly"
-"Policar,Lotus 72,CB53,1425,NOT 72D or 72E (see below)"
-"Policar,Lotus 72D,FL06,N/A,"
-"Policar,Lotus 72E,FL06,N/A,"
-"Policar,March 701,CB53,1425,"
-"Policar,Monoposto F1,PC010,1423 1424 1425,"
-"Policar,Subaru BRZ,CB34,1404,"
-"Policar,Subaru WRX,CB34,1404,"
-"Policar,Toyota GT86,CB33,1403,"
-"Proslot,Porsche GT2,CB57 CB58 CB59,1407 1408 1409,"
-"Proslot,Toyota GT1,CB57 CB58 CB59,1407 1408 1409,"
-"Revell,Jaguar E-Type,N/A,1700,"
-"Revoslot,Alpha Romeo,RS145,1503,"
-"Revoslot,BMW 2002,RS145,1503,"
-"Revoslot,Corvette CSR,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Datsun 510,RS145,1503,"
-"Revoslot,Ferrari 333 SP,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Ferrari F40,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Ford Escort Mk 1,RS145,1503,"
-"Revoslot,Lister Storm,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Maxda RX-7,N/A,1504,"
-"Revoslot,Marcos LM600 (RS0013 and RS75),RS75,1501,"
-"Revoslot,Marcos LM600 (RS0032 and RS75),TS43,1502,TS44 if larger OD desired"
-"Revoslot,McLaren F1 GTR,TS43,1501,TS44 if larger OD desired"
-"Revoslot,Mercedes CLK,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Porsche 911 GT1,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Porsche 911 GT2 (RS0019 and RS75),RS75,1501,"
-"Revoslot,Porsche 911 GT2 (RS0030 and RS75),TS43,1502,TS44 if larger OD desired"
-"Revoslot,Porsche 934/5,N/A,1504,"
-"Revoslot,Toyota GT-ONE,TS43,1502,TS44 if larger OD desired"
-"Revoslot,Toyota Supra,TS43,1502,"
-"Revoslot,Viper,TS43,1502,TS44 if larger OD desired"
-"Riggen,Home Set Cars,N/A,V-100,"
-"Scaleauto,1:24,SA01,ST4043,"
-"Scaleauto,Acura NSX,CB58,1408,"
-"Scaleauto,American 7R,CB58,1408,"
-"Scaleauto,American 7R (1:24),SA01,ST4043,"
-"Scaleauto,Audi LMS GT3,CB58,1408,"
-"Scaleauto,Audi LMS GT3 (1:24),SA01,ST4043,"
-"Scaleauto,BMW M1 Gr. 5,CB58,1408,"
-"Scaleauto,BMW M3 GT2 (1:24),SA01,ST4043,"
-"Scaleauto,BMW V12 LMR,CB58,1408,"
-"Scaleauto,BMW Z4 GT3,CB58,1408,"
-"Scaleauto,BMW Z4 GT3 (1:24),SA01,ST4043,"
-"C8 Laviolette GT2R,CB58,1408,"
-"Scaleauto,C8 Spyder GT2R,CB58,1408,"
-"Scaleauto,Cadillac V-LMdh,CB33 CB34,1402 1403,"
-"Scaleauto,Chevrolet Corvette C7R,CB58,1408,"
-"Scaleauto,Chevrolet Corvette C7R (1:24),SA01,ST4043,"
-"Scaleauto,Chevrolet Corvette C8R,CB58,1408,"
-"Scaleauto,De Tomaso Pantera Gr. 3,CB58,1408,"
-"Scaleauto,De Tomaso Pantera Gr. 4,CB58,1408,"
-"Scaleauto,De Tomaso Pantera Gr. 5,CB58,1408,"
-"Scaleauto,F1 (Formula 90-97),PC010,1423 1424 1425,"
-"Scaleauto,Ford RS200,CB58,1408,"
-"Scaleauto,Formula 90-97 (F1),CB22,N/A,"
-"Scaleauto,Honda HSV-010 Super GT,CB58,1408,"
-"Scaleauto,Jaguar XKR GT2 (1:24),SA01,ST4043,"
-"Scaleauto,LB GT3 (1:24),SA01,ST4043,"
-"Scaleauto,Mercedes SLS AMG GT3,CB58,1407 1408,"
-"Scaleauto,Mercedes SLS AMG GT3 (1:24),SA01,ST4043,"
-"Scaleauto,MG Metro 6R4,CB58,1408,"
-"Scaleauto,Pantera Group 3,CB58,1408,"
-"Scaleauto,Peugeot 9x8 LMH,CB33 CB34,1401 1402,"
-"Scaleauto,Peugeot P208 T16,CB58,1408,"
-"Scaleauto,Porsche 935-76 Gr. 5 (see note),CB58,1408,"
-"Scaleauto,Porsche 935-77 Gr. 5 (see note),CB58,1408,"
-"Scaleauto,Porsche 935-J Gr. 5 (see note),CB58,1408,"
-"Scaleauto,Porsche 959,CB58,1408,"
-"Scaleauto,Porsche 963,CB33 CB34,1401 1402,"
-"Scaleauto,Porsche 991 RSR,CB58,1408,"
-"Scaleauto,Porsche 991 RSR (1:24),SA01,ST4043,"
-"Scaleauto,Porsche 997 GT3 (1:24),SA01,ST4043,"
-"Scaleauto,Porsche 997 RSR (1:24),SA01,ST4043,"
-"Scaleauto,Porsche Carrera RS,CB58,1408,"
-"Scaleauto,Porsche Carrera RSR 3.0,CB58,1408,"
-"Scaleauto,Radical LMP SR9,CB58,1408,"
-"Scaleauto,Saleen S7R,CB58,1408,"
-"Scaleauto,SRT Viper GTS-R,CB58,1408,"
-"Scaleauto,SRT Viper GTS-R (1:24),SA01,ST4043,"
-"Scalextric,Subaru Impreza WRC,CB58,1408,"
-"Scalextric,A1 Grand Prix,SC130,1103,"
-"Scalextric,Acura NSX (JGTC),CB64,1105,"
-"Scalextric,AMC Hornet,SC02,1102,"
-"Scalextric,AMC Javelin,SC02,1102,"
-"Scalextric,Aston Martin V8 (James Bond),SC01,1601,"
-"Scalextric,Aston Martin V8 (Gulf Race),CB64 CB65,1100BRS 1100CRS,"
-"Scalextric,Aston Martin Vantage GT3,CB58,1408,"
-"Scalextric,Aston Martin Vantage GT3,CB64,1100BRS,"
-"Scalextric,Audi R8 LMS GT3,CB64,1100BRS,"
-"Scalextric,Audi R8 Police,CB64,1100BRS,"
-"Scalextric,Audi R10,,1010,"
-"Scalextric,Batman (Ginetta G60),CB58 CB59,1408 1409,"
-"Scalextric,Bentley Continental GT3,CB65,1100BRS,"
-"Scalextric,Blues Brothers Chicago Police,SC02,1102,"
-"Scalextric,BMW 125 (BTCC),CB33,1402 1403,"
-"Scalextric,BMW 320i,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,BMW 330i,CB33,1402 1403,"
-"Scalextric,BMW E30 M3 (DTM),CB33 CB34,1402 1403,"
-"Scalextric,BMW Mini,CB33,1106,"
-"Scalextric,BMW Z4 GT3,CB33,1402 1403,"
-"Scalextric,BTCC BMW 125,CB33,1402 1403,"
-"Scalextric,BTCC Honda Civic,CB33,1402 1403,"
-"Scalextric,BTCC MG6,CB33,1402 1403,"
-"Scalextric,Cadillac V-Series Hypercar,CB58,1408,"
-"Scalextric,Cadillac Northstar LMP,CB64,1100ARS,"
-"Scalextric,Chaparral 2F,CB34 CB35,1403 1404,"
-"Checker Cab,N/A,1700,"
-"Scalextric,Chevrolet Camaro (Trans-Am),SC02,1102,"
-"Scalextric,Chevrolet Camaro IROC-Z,SC01,1601,"
-"Scalextric,Chevrolet Camaro Z28 (Spa 1973),SC02,1102,C4216"
-"Scalextric,Chevrolet Camaro Z28 (Spa 1980),CB33,1403,C4235"
-"Scalextric,Chevrolet Camaro Z28 ('79),SC09,1603,C4227"
-"Scalextric,Chevrolet Corvette L88 '68/'69,SC02,1602,"
-"Scalextric,Chevrolet Corvette C6R,SC11,N/A,"
-"Scalextric,Chevrolet Corvette C8R,SC05,N/A,"
-"Scalextric,Chevrolet Monte Carlo (Stock),SC01,1601,"
-"Scalextric,Cobra 289 (Shelby),SC02,1102 1104 1900,"
-"Scalextric,Cuda/Barracuda,SC09,1603,"
-"Scalextric,Dallara Indy,SC130,1103,"
-"Scalextric,Daytona Prototype,CB58,1407,"
-"Scalextric,DeLorean,CB36,1405,"
-"Scalextric,Dodge Challenger (Trans-Am),SC02,1102,"
-"Scalextric,Dodge Charger,SC02,1102,"
-"Scalextric,Dodge Monaco Blues Brothers,SC02,1102,"
-"Scalextric,Dodge Viper GT,CB65,1100CRS,"
-"Scalextric,F1 (Modern),SC130,1103,"
-"Scalextric,F1 START,SC130,1103,"
-"Scalextric,Ferrari 156,CB28,1301,"
-"Scalextric,Ferrari 250 GTO,SC02,1102,"
-"Scalextric,Ferrari 330 P4,SC01,1102 1601,"
-"Scalextric,Ferrari 375,CB29,1204,Wider than stock"
-"Scalextric,Ferrari 412P,SC01,1301,"
-"Scalextric,Ferrari F430,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Ford Anglia,CB12 CB13,N/A,"
-"Scalextric,Ford Escort,CB13,N/A,"
-"Scalextric,Ford Escort Mk I,SC02,1102 1601,"
-"Scalextric,Ford Falcon XB,SC02,1601,"
-"Scalextric,Ford Falcon XC,SC02,1102,"
-"Scalextric,Ford Falcon XW,CB18,N/A,"
-"Scalextric,Ford Fiesta,CB32,1401,"
-"Scalextric,Ford Focus WRC,N/A,1106,"
-"Scalextric,Ford Gran Torino,SC02,1102,"
-"Scalextric,Ford GT,CB64,1100BRS,"
-"Scalextric,Ford GT GTE,CB59,1409,"
-"Scalextric,Ford GT40,SC16,1104,"
-"Scalextric,Ford Lotus Cortina,CB13,N/A,"
-"Scalextric,Ford Mustang FR500C,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Ford Mustang (Trans-Am),SC02,1102,"
-"Scalextric,Ford Mustang GT3 GT4,CB59,1409 1410,"
-"Scalextric,Ford Mustang Shelby GT350 ('66),N/A,1601,"
-"Scalextric,Ford Mustang (Alan Mann),SC09,N/A,SC01 is wider but may interfere with wheel well"
-"Scalextric,Ford Mustang (Goodwood),SC09,N/A,SC01 is wider but may interfere with wheel well"
-"Scalextric,Ford Puma WRC 4WD,CB32,1401,"
-"Scalextric,1403,SC01,1601,"
-"Scalextric,Formula E,CB34,1402,Slightly narrower than stock"
-"Scalextric,Formula E,CB43,N/A,Slightly wider than stock"
-"Scalextric,Formula E,CB59,1409,"
-"Scalextric,Ginetta G60-LT-P1,CB58 CB59,1408 1409,"
-"Scalextric,Gurney Eagle,N/A,1103,"
-"Scalextric,Honda Civic (BTCC),CB33,1402 1403,"
-"Scalextric,Honda NSX JGT1C,N/A,1105,"
-"Scalextric,IRL (Indy Racing League),SC130,1103,"
-"Scalextric,Jaguar I-PACE,CB59,1409,"
-"Scalextric,Jaguar XKR,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Joker Inspired Car,SC16,1104,"
-"Scalextric,Knight Rider K.I.T.T.,CB34,1403,"
-"Scalextric,Lamborghini Centenario,CB58,1408,"
-"Scalextric,Lamborghini Countach,CB59,1409,"
-"Scalextric,Lamborghini Gallardo,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Lamborghini Revuelto,N/A,1010,"
-"Scalextric,Lancia Stratos,CB41 CB42,1104 1105,"
-"Scalextric,Lister Storm,FL03,1004 1010,"
-"Scalextric,LMP,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Lotus 25,CB28,1301,"
-"Scalextric,Lotus 49/49B,SC130,1103,Slightly wider and taller than stock"
-"Scalextric,Lotus 97T,PC010,1423 1424 1425,"
-"Scalextric,Lotus 99T,PC010,1423 1424 1425,"
-"Scalextric,Lotus Esprit,SC02,1102,"
-"Scalextric,Lotus Evora GT4,SC11,N/A,"
-"Scalextric,Lotus Exige,CB32,1401,"
-"Scalextric,Maserati 250F,CB30,N/A,"
-"Scalextric,Maserati MC12,CB57,1003 1004 1010 1407,"
-"Scalextric,Maserati Trofeo,CB42,1105,"
-"Scalextric,McLaren 720S,CB58,1408,"
-"Scalextric,McLaren F1 GTR,CB59,1409,"
-"Scalextric,McLaren M20,N/A,1304,"
-"Scalextric,McLaren M23,PC010,1423 1424 1425,"
-"Scalextric,McLaren M7C,CB21,N/A,"
-"Scalextric,McLaren MP4-12C,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,McLaren Mercedes SLR,N/A,1010,"
-"Scalextric,Mercedes 300 SLR,N/A,1204,"
-"Scalextric,Mercedes AMG DTM,N/A,1105,"
-"Scalextric,Mercedes AMG GT3,SC20,1105 2112 2114,"
-"Scalextric,Mercedes F1 Safety Car,N/A,1010,"
-"Scalextric,Mercedes SLK,N/A,1105,"
-"Scalextric,Mercury Cougar,SC02,1102,"
-"Scalextric,MG Lola,CB64,1100ARS,"
-"Scalextric,MG6 (BTCC),CB32,1401 1402,"
-"Scalextric,Mini Cooper,N/A,1106,"
-"Scalextric,Mirage GR8,CB53,1404 2114,"
-"Scalextric,Mitsubishi Lancer (WRC),N/A,1106,"
-"Scalextric,Nascar (1997 - 2009),SC130,1101 1103,"
-"Scalextric,Nissan 350Z (JGTC),CB64,1105,"
-"Scalextric,Nissan GTR (Drift),N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Nissan Skyline (JGTC),CB64,1100ARS,"
-"Scalextric,Opel Astra DTM,N/A,1105,"
-"Scalextric,Opel V8 Coupe DTM,N/A,1105,"
-"Scalextric,Opel Vectra DTM,N/A,1105,"
-"Scalextric,Pagani Huayra Roadster BC,CB58,1408,"
-"Scalextric,Peugeot 908 HDI FAP,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Plymouth 'Cuda Trans-Am,SC09,1102 1601,"
-"Scalextric,Porsche 911 GT3 R,CB58,1105 1408,"
-"Scalextric,Porsche 911 RSR,SC20,2112 2114,"
-"Scalextric,Porsche 911 RSR 3.0,CB52,2200,"
-"Scalextric,Porsche 997,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Porsche 997 GT3 RS,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Porsche RS Spyder,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,RASIO C20,SC16,1104,"
-"Scalextric,Seat Leon,N/A,1106,"
-"Scalextric,Shelby Cobra 289,SC02,1102,"
-"Scalextric,Shelby Fastback,N/A,1601,"
-"Scalextric,START F1,SC130,1103,"
-"Scalextric,START Pro Racing,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Suburu WRC,N/A,1106,"
-"Scalextric,Team GT Lightning,CB65,1100BRS,"
-"Scalextric,Team GT Zombie,N/A,1100BRS,"
-"Scalextric,Team LMP,CB65,1100BRS,"
-"Scalextric,Toyota Supra (JGTC),CB64,1105 1100ARS,"
-"Scalextric,Team Scalextric_Starco Racing,N/A,1107,"
-"Scalextric,Truck5,FL91,1107,"
-"Scalextric,TVR T400R,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Tyrell P34,PC010,N/A,"
-"Scalextric,VW Classic Beetle,N/A,2000,"
-"Scalextric,Williams FW11,PC010,N/A,"
-"SCX,1/43 NASCAR,N/A,1600,"
-"SCX,Aston Martin DB9,CB57,1407,"
-"SCX,Aston Martin Vantage,CB57,1407,"
-"SCX,Audi R8 Pro,CB32,1407 1603,"
-"SCX,Audi R10,CB57,1407,"
-"SCX,BMW 320i,N/A,1402 1403,"
-"SCX,Citroen DS21,CB29,1601,"
-"SCX,Corvette C6R,CB57,1407,"
-"SCX,Cuda,SC01,1601,"
-"SCX,Dome Judd,N/A,1010,"
-"Ferrari 360,CB57,1407,"
-"SCX,Ferrari 550,CB57,1407,"
-"SCX,Ferrari 550 Maranelli,N/A,1407,"
-"SCX,Ferrari FXX,N/A,1407,"
-"SCX,Ford Sierra RS Cosworth,N/A,1603,"
-"SCX,Formula 1,ST1604R,1604,"
-"SCX,Morgan Aero 8,N/A,1402,"
-"SCX,MG A 1500,CB28,1301,"
-"SCX,Nascar,SC01,1601,1601 for pre-COT"
-"SCX,Nascar (Pro),SC01,1601,"
-"SCX,Peugeot 908 LMP,CB57,1407,"
-"SCX,Porsche 911 GT3 Cup,CB57,1407,"
-"SCX,Seat Cupra GT,N/A,1402 1403,"
-"SCX,Seat Leon,CB32,1400,"
-"SCX,Tuner Car 2,N/A,1402,"
-"SCX,SCX Volvo GT,N/A,1401,"
-"Sideways,15.9 x 10mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44"
-"Sideways,15.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Sideways,16.5 x 10mm Wheels,CB41 CB42 CB43 CB44,1400 1402 1403,1100CRS lower than CB43 CB44"
-"Sideways,16.5 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Sideways,16.9 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,"
-"Sideways,16.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Sideways,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,"
-"Sideways,17.3 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Sideways,Fly Truck Wheels,FL91 FL92,N/A,"
-"Sideways,ASV GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on"
-"Sideways,BMW 320 Group 5,CB34,1402,"
-"Sideways,BMW M1 Group 5,CB34,1402,"
-"Sideways,BMW M6 GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on"
-"Sideways,Daytona Prototype (Dallara),CB57 CB58,1407 1408,"
-"Sideways,Daytona Prototype (Riley),CB57 CB58,1407 1408,"
-"Sideways,Ferrari 512 BB,CB34,1402,"
-"Sideways,Ford Capri Group 5,CB34,1402,"
-"Sideways,Ford Escort Group 5,CB34,1402,"
-"Sideways,Ford GTE GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on"
-"Sideways,Ford Mustang,CB34,1402,"
-"Sideways,Lamborghini Huracan GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on"
-"Sideways,Lancia Beta Montecarlo,CB34,1402,"
-"Sideways,Lancia Stratos Group 5,CB34,1402,"
-"Sideways,McLaren 720S,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on"
-"Sideways,Nissan Skyline Group 5,CB33,1401,"
-"Sideways,Porsche 935,CB33,1401,"
-"Sideways,Porsche 935/77A,CB33,1401,"
-"Sideways,Porsche 935/78,CB33,1401,"
-"Sideways,Porsche 935/78-81,CB33,1401,"
-"Sideways,Porsche 935 K2,CB33,1401,"
-"Sideways,Toyota Celica Group 5,CB34,1402,"
-"Slot.it,13.6 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W13609515A (replaces WH1211-Al)"
-"Slot.it,14.2 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W14209515A (replaces WH1190-Al)"
-"Slot.it,14.4 x 9.5mm Wheels (Double,BS75,1501,"
-"Slot.it,14.4 x 11.5mm (F1) Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,"
-"Slot.it,15.0 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W15009515A (replaces WH1212-Al)"
-"Slot.it,15.8 x 10.2mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44"
-"Slot.it,15.8 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Slot.it,15.8 x 8.2mm Wheels (Double,DF132 DF133 DF134,1405,W15808215AF (replaces PA24-Alf)"
-"Slot.it,16.5 x 10.2mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44"
-"Slot.it,16.5 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Slot.it,16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Slot.it,16.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Slot.it,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,"
-"Slot.it,17.3 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,"
-"Slot.it,17.3 x 9.75mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,"
-"Slot.it,Acura ARX-05,CB58,1408,"
-"Slot.it,Alfa Romeo 155 V6 TI,CB33 CB34,1402 1403,"
-"Slot.IT,Alfa Romeo 33/3,N/A,1402 1403,"
-"Slot.it,Audi R18 e-Tron,CB58,1408,"
-"Slot.lt,Audi R18 TDI,CB58,1408,"
-"Slot.lt,Audi R8 LMS GT3,CB58,1408,"
-"Slot.lt,Audi R8C (10th Anniversary),CB33 CB34,1402,"
-"Slot.lt,Audi R8C Le Mans,CB58,1408,"
-"Slot.lt,Audi R8C Reloaded,CB58,1408,"
-"Slot.lt,Audi R8C Test Car,CB58,1408,"
-"Slot.lt,Chaparral 2F,CB33 CB34,1402 1403,"
-"Slot.lt,Chaparral 2F,CB34,1402 1403,"
-"Slot.lt,Datsun 510,CB33,1401 1402,"
-"Slot.lt,F1 Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,"
-"Slot.lt,Ferrari 312 PB,CB33 CB34,1402,"
-"Slot.lt,Ferrari 512M,CB34,1402,"
-"Slot.lt,Ferrari F40,CB58,1408,"
-"Slot.lt,Ford GT40,CB33 CB34,1402,"
-"Slot.lt,Fork GT40 Mk II,CB33 CB34,1402,"
-"Slot.lt,Jaguar XJR12,CB33 CB34,1402,"
-"Slot.lt,Jaguar XJR6,CB33 CB34,1402,"
-"Slot.lt,Jaguar XJR9,CB33 CB34,1402,"
-"Slot.lt,Jaguar XJR10,CB33 CB34,1402,"
-"Slot.lt,Lancia LC2/85,CB33 CB34,1402,"
-"Slot.lt,Lola Aston Martin,CB58,1408,"
-"Slot.lt,Lola B09/60,CB58,1408,"
-"Slot.lt,Lola B10/60,CB58,1408,"
-"Slot.lt,Lola B11/80,CB58,1408,"
-"Slot.lt,Lola B12/69,CB58,1408,"
-"Slot.lt,Maserati MC GT3,CB58,1408,"
-"Slot.lt,Maserati MC GT4,CB58,1408,"
-"Slot.lt,Matra MS670B,CB33 CB34,1402,"
-"Slot.lt,Mazda 787B,CB33 CB34,1402,"
-"Slot.lt,McLaren F1 (Raw),CB33 CB34,1402,"
-"Slot.lt,McLaren F1 GTR (Race),CB58,1402,"
-"Slot.lt,McLaren M8D,CB33 CB34,1402,"
-"Slot.lt,Mercedes 190e DTM,CB34,1402,"
-"Slot.lt,Mercedes Sauber C9,CB33 CB34,1402,"
-"Slot.lt,Nissan R390 GT1,CB58,1408,"
-"Slot.lt,Nissan R89C,CB33 CB34,1402,"
-"Slot.lt,Nissan Skyline GT-R,CB33 CB34,1402,"
-"Slot.lt,Opel Calibra V6,CB33 CB34,1402,"
-"Slot.lt,Oreca 07,CB58,1408,"
-"Slot.lt,Porsche 956C,CB33 CB34,1402,"
-"Slot.lt,Porsche 956K,CB33 CB34,1402,"
-"Slot.lt,Porsche 956KH,CB33 CB34,1402,"
-"Slot.lt,Porsche 962,CB33 CB34,1402,"
-"Slot.lt,Porsche GT1 EVO98,CB58,1408,"
-"Slot.lt,Toyota 88C,CB33 CB34,1402,"
-"Sloter,Ferrari 312 PB,CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44"
-"Sloter,Lola T290,CB42 CB43 CB44,1402 1403 1404 1405,"
-"Sloting Plus,14.2 x 8.0mm,CB17 CB18,N/A,Typical"
-"Sloting Plus,14.2 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Less typical (recommend gluing)"
-"Sloting Plus,14.6 x 8.0mm,CB17 CB18,N/A,Typical"
-"Sloting Plus,14.6 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Less typical (recommend gluing)"
-"Sloting Plus,15.0 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Typical"
-"Sloting Plus,15.5 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical"
-"Sloting Plus,15.5 x 8.5mm,SC01,1601,Less typical, 1100CRS lower than CB43 CB44"
-"Sloting Plus,15.9 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Less typical, 1100CRS lower than CB43 CB44"
-"Sloting Plus,15.9 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical, 1100CRS lower than CB43 CB44"
-"Sloting Plus,16.2 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical"
-"Sloting Plus,16.5 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical"
-"Sloting Plus,16.5 x 8.5mm,CB57 CB58 CB59,1407 1408 1409 1410,Less typical, 1100CRS lower than CB43 CB44"
-"Sloting Plus,16.2 x 10mm,CB41 CB42 CB43 CB44 CB57 CB58 CB59,1402 1403 1404 1405 1407 1408 1409 1410,Less typical"
-"Sloting Plus,16.5 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical, 1100CRS lower than CB43 CB44"
-"Sloting Plus,16.5 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,16.9 x 8.5mm,CB32 CB33 CB34,1400 1401 1402 1403 1404,Typical (mount using lubricant (e.g. Simple Green))"
-"Sloting Plus,16.9 x 8.5mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical (mount using lubricant (e.g. Simple Green))"
-"Sloting Plus,16.9 x 8.5mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,16.9 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,16.9 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical (mount using lubricant (e.g. Simple Green))"
-"Sloting Plus,17.2 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,17.2 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green))"
-"Sloting Plus,17.5 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,17.5 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green))"
-"Sloting Plus,18 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical"
-"Sloting Plus,18 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green))"
-"Slotwings,March 761,FL06,N/A,"
-"Spirit,Classic,CB46 CB47 CB48 CB49,1007 1008 1009 2112,"
-"Spirit,Courage,N/A,1800,"
-"Spirit,MG Lola,N/A,1007 2112 2114,"
-"Spirit,Peugeot 406,N/A,1800,"
-"Spirit,Reynard,N/A,1007 2112 2114,"
-"SRC,Lancia Delta S4,CB34,1402,"
-"SRC,Peugeot 205 T16,CB34,1402,"
-"SRC,Porsche 914/6,CB34,1402,"
-"SRC,Toyota LMP1 TS050,CB57,1407,"
-"Staffs,15.8 x 8.5mm (Air Ride),DF132 DF133 DF134,1400 1401 1402,QS Air Ride ST No Air Ride"
-"Staffs,15.8 x 8.5mm (No Air Ride),CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride"
-"Staffs,15.8 x 10mm (Air Ride),N/A,N/A,QS Air Ride ST No Air Ride"
-"Staffs,15.8 x 10mm (No Air Ride),CB41 CB42 CB43 CB44,1402 1403 1404 1405,No Air Ride, 1100CRS lower than CB43 CB44"
-"Staffs,16.9 x 8.5mm (No Air Ride),CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride"
-"Staffs,16.9 x 10mm (Air Ride),DF157 DF158 DF159,1407 1408 1409 1410,QS Air Ride ST No Air Ride"
-"Staffs,16.9 x 10mm (No Air Ride),CB57 CB58 CB59,1407 1408 1409 1410,No Air Ride"
-"Thunder Slot,3-Rib Rear Wheel,TS03 TS04,1403 1404,"
-"Thunder Slot,Ferrari Can-Am 350,TS03 TS04,1403 1404,"
-"Thunder Slot,Lola T70 Can-Am (2-Rib Wheel),TS43 TS44,1403 1404,"
-"Thunder Slot,Lola T70 Can-Am (3-Rib Wheel),TS03 TS04,1403 1404,"
-"Thunder Slot,Lola T70 MKIII (2-Rib Wheel),TS43 TS44,1403 1404,"
-"Thunder Slot,Lola T70 MKIII (3-Rib Wheel),TS03 TS04,1403 1404,"
-"Thunder Slot,McLaren Elva (All),TS03 TS04,1403 1404,"
-"Thunder Slot,McLaren M6A (CA00301S/W),TS43 TS44,1403 1404,"
-"Thunder Slot,McLaren M6A (CA00302S/W),TS43 TS44,1403 1404,"
-"Thunder Slot,McLaren M6A (CA00303S/W),TS03 TS04,1403 1404,"
-"Thunder Slot,McLaren M6B (CA00304S/W),TS03 TS04,1403 1404,"
-"Thunder Slot,McLaren M6B (CA00305S/W),TS03 TS04,1403 1404,"
-"Thunder Slot,Shelby Mustang,CB35,1403,"
-"TSRF,1:32 Wheels,CB46 CB47 CB48 CB49,2112 2114,"
-"TTS,15.5 x 10mm,RS75,1501,"
-"TTS,15.5 x 11mm,TS43 TS44,1404 2102 2104,"
-"TTS,13.5 x 8.5mm,RS75,1501,"
-"TTS,13.5 x 10.5mm,TS43 TS44,1404 2102 2104,"
-"TTS,Fiat Abarth 1000 (1:24),TS44,1404 2102 2104,"
-"TTS,Autobianchi A112 (1:24),TS43,1404 2102 2105,"
-"TTS,Ford Escort Mk1 (1:24),TS44,1404 2102 2106,"
-"TTS,Simca 1000 (1:24),TS44,1404 2102 2107,"
-"Vanquish,CanAm (BRM Lola Shadom,N/A,1500,"
-"Scaleauto,BMW M3 Gr. 5,CB58,1408,"
-"Scaleauto,BMW M3 GT2 (1:24),SA01,ST4043,"
-"Scaleauto,BMW V12 LMR,CB58,1408,"
-"Scaleauto,BMW Z4 GT3,CB58,1408,"
-"Scaleauto,BMW Z4 GT3 (1:24),SA01,ST4043,"
-"C8 Laviolette GT2R,CB58,1408,"
-"C8 Spyder GT2R,CB58,1408,"
-"Cadillac V-LMdh,CB33 CB34,1402 1403,"
-"Chevrolet Corvette C7R,CB58,1408,"
-"Chevrolet Corvette C7R (1:24),SA01,ST4043,"
-"Chevrolet Corvette C8R,CB58,1408,"
-"De Tomaso Pantera Gr. 3,CB58,1408,"
-"De Tomaso Pantera Gr. 4,CB58,1408,"
-"De Tomaso Pantera Gr. 5,CB58,1408,"
-"F1 (Formula 90-97),PC010,1423 1424 1425,"
-"Ford RS200,CB58,1408,"
-"Formula 90-97 (F1),CB22,N/A,"
-"Honda HSV-010 Super GT,CB58,1408,"
-"Jaguar XKR GT2 (1:24),SA01,ST4043,"
-"LB GT3 (1:24),SA01,ST4043,"
-"Mercedes SLS AMG GT3,CB58,1407 1408,"
-"Mercedes SLS AMG GT3 (1:24),SA01,ST4043,"
-"MG Metro 6R4,CB58,1408,"
-"Pantera Group 3,CB58,1408,"
-"Peugeot 9x8 LMH,CB33 CB34,1401 1402,"
-"Peugeot P208 T16,CB58,1408,"
-"Porsche 935-76 Gr. 5 (see note),CB58,1408,"
-"Porsche 935-77 Gr. 5 (see note),CB58,1408,"
-"Porsche 935-J Gr. 5 (see note),CB58,1408,"
-"Porsche 959,CB58,1408,"
-"Porsche 963,CB33 CB34,1401 1402,"
-"Porsche 991 RSR,CB58,1408,"
-"Porsche 991 RSR (1:24),SA01,ST4043,"
-"Porsche 997 GT3 (1:24),SA01,ST4043,"
-"Porsche 997 RSR (1:24),SA01,ST4043,"
-"Porsche Carrera RS,CB58,1408,"
-"Porsche Carrera RSR 3.0,CB58,1408,"
-"Radical LMP SR9,CB58,1408,"
-"Saleen S7R,CB58,1408,"
-"SRT Viper GTS-R,CB58,1408,"
-"SRT Viper GTS-R (1:24),SA01,ST4043,"
-"Scalextric,Checker Cab,N/A,1700,"
-"Scalextric,Chevrolet Camaro (Trans-Am),SC02,1102,"
-"Scalextric,Chevrolet Camaro IROC-Z,SC01,1601,"
-"Scalextric,Chevrolet Camaro Z28 (Spa 1973),SC02,1102,C4216"
-"Scalextric,Chevrolet Camaro Z28 (Spa 1980),CB33,1403,C4235"
-"Scalextric,Chevrolet Camaro Z28 ('79),SC09,1603,C4227"
-"Scalextric,Chevrolet Corvette L88 '68/'69,SC02,1602,"
-"Scalextric,Chevrolet Corvette C6R,SC11,N/A,"
-"Scalextric,Chevrolet Corvette C8R,SC05,N/A,"
-"Scalextric,Chevrolet Monte Carlo (Stock),SC01,1601,"
-"Scalextric,Cobra 289 (Shelby),SC02,1102 1104 1900,"
-"Scalextric,Cuda/Barracuda,SC09,1603,"
-"Scalextric,Dallara Indy,SC130,1103,"
-"Scalextric,Daytona Prototype,CB58,1407,"
-"Scalextric,DeLorean,CB36,1405,"
-"Scalextric,Dodge Challenger (Trans-Am),SC02,1102,"
-"Scalextric,Dodge Charger,SC02,1102,"
-"Scalextric,Dodge Monaco Blues Brothers,SC02,1102,"
-"Scalextric,Dodge Viper GT,CB65,1100CRS,"
-"Scalextric,F1 (Modern),SC130,1103,"
-"Scalextric,F1 START,SC130,1103,"
-"Scalextric,Ferrari 156,CB28,1301,"
-"Scalextric,Ferrari 250 GTO,SC02,1102,"
-"Scalextric,Ferrari 330 P4,SC01,1102 1601,"
-"Scalextric,Ferrari 375,CB29,1204,Wider than stock"
-"Scalextric,Ferrari 412P,SC01,1301,"
-"Scalextric,Ferrari F430,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Ford Anglia,CB12 CB13,N/A,"
-"Scalextric,Ford Escort,CB13,N/A,"
-"Scalextric,Ford Escort Mk I,SC02,1102 1601,"
-"Scalextric,Ford Falcon XB,SC02,1601,"
-"Scalextric,Ford Falcon XC,SC02,1102,"
-"Scalextric,Ford Falcon XW,CB18,N/A,"
-"Scalextric,Ford Fiesta,CB32,1401,"
-"Scalextric,Ford Focus WRC,N/A,1106,"
-"Scalextric,Ford Gran Torino,SC02,1102,"
-"Scalextric,Ford GT,CB64,1100BRS,"
-"Scalextric,Ford GT GTE,CB59,1409,"
-"Scalextric,Ford GT40,SC16,1104,"
-"Scalextric,Ford Lotus Cortina,CB13,N/A,"
-"Scalextric,Ford Mustang FR500C,N/A,1100ARS 1100BRS 1100CRS,"
-"Scalextric,Ford"
+Brand,Model,QuickSlicksPart,SupertiresPart,Notes,Source
+Artin,Mercedes CLK,CB33 CB34,1402,,
+Artin,Porsche GT1,CB33 CB34,1402,,
+Avant Slot,16.5 x 10mm Aluminum Wheel,N/A,1603,,
+Avant Slot,Lotus Elise GT1,CB57 CB58,1407 1408 1409,,
+Avant Slot,Peugeot 207,CB33,1403,,
+Avant Slot,Porsche Kremer K8,CB33 CB34,1402 1403,,
+Avant Slot,Porsche Spyder,CB57 CB58,1407 1408 1409,,
+Black Arrow,Aston Martin DBR9,CB57 CB58,1407 1408 1409,,
+Black Arrow,"Lamborghini (""Black Bull"")",N/A,1407 1408 1409,,
+Black Arrow,GT3 Italia,N/A,1407 1408 1409,,
+BRM,Alfa GTA (1:24),TS43 TS44,1503,,
+BRM,BMW 2002 (1:24),TS43 TS44,1503,,
+BRM,Chevrolet Camaro (1:24 - Trans Am),BR15,ST124BRMTARS,,
+BRM,Ferrari 512 (1:24),BR01,N/A,,
+BRM,Fiat Abarth 1000 (1:24),RS75,1501,,
+BRM,Ford Escort (1:24),TS43 TS44,1503,,
+BRM,Ford GT40 (1:24),BR01,N/A,,
+BRM,Ford Mustang (1:24 - Trans Am),BR15,ST124BRMTARS,,
+BRM,Group C (1:24),BR06,ST014 12409,,
+BRM,McLaren F1 (1:24),BR11,N/A,,
+BRM,Mini (1:24),DF134 TS43 TS44,1503,,
+BRM,Opel Kadett GTE (1:24),TS43 TS44,1503,,
+BRM,Porsche 911 (1:24),BR11,N/A,,
+BRM,Porsche 917 (1:24),BR01,N/A,,
+BRM,Porsche 962 (1:24),BR06,ST014 12409,,
+BRM,S-110 22 x 9mm (1:32),CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+BRM,S-111 22 x 9mm (1:32),CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+BRM,Sauber C9 (1:24),BR06,ST014 12409,,
+BRM,Toyota 88C,BR06,ST014 12409,,
+BRM,Trans Am (1:24),BR15,ST124BRMTARS,,
+Carrera,'57 Chevy Bel Air,CB29 CB30,1301,,
+Carrera,'67 Corvette,CB30,1301,,
+Carrera,Aston Martin Vantage GT3,CA02 CA03,1310,,
+Carrera,Aston Martin DB5,CB30,1301,,
+Carrera,Aston Martin DBR9 (1:24),N/A,12405,,
+Carrera,Aston Martin Vanquish,CB30,1301,,
+Carrera,Audi A4 DTM,CA02 CA03,1310,,
+Carrera,Audi A5 DTM,CA02 CA03,1310,,
+Carrera,Audi R8 GT (1:24),CA292,12401,,
+Carrera,Audi R8 LMP (1:24),N/A,12412,,
+Carrera,Audi R8 LMS,CA02 CA03,1310,NOTE: 1/24 Audi R8 LMS GT3 Evo II uses 12417,
+Carrera,Audi R8 LMS GT3 Evo II (1:24),N/A,12417,,
+Carrera,Audi RS 5 DTM,CA02 CA03,1310,,
+Carrera,Audi RS 5 DTM (1:24),CA292,12401,,
+Carrera,Audi R10 LMP (1:24),N/A,12413,,
+Carrera,BMW 320 Turbo,CB52,1424,,
+Carrera,BMW M1 (1:24),N/A,12411,,
+Carrera,BMW M1 (1:32),CA21,1309,,
+Carrera,BMW M3,N/A,1307,,
+Carrera,BMW M4 DTM,CA02 CA03,1310,,
+Carrera,BMW M4 GT3,CA02 CA03,1310,,
+Carrera,BMW M4 GT3 (1:24),N/A,12417,,
+Carrera,BMW M6 GT3,CA02 CA03,1310,,
+Carrera,BMW Z4 GT3,CA02 CA03,1310,,
+Carrera,Cheetah (1:24),N/A,12408,,
+Carrera,Chevrolet Bel Air '57,CB29 CB30,1301,,
+Carrera,Camaro (1969),CB30,1301,,
+Carrera,Chevrolet Camaro (Concept),SC11,N/A,21.60mm x 11.20 mm,
+Carrera,Chevrolet Camaro (1969 Drag),SC01,1601,,
+Carrera,Chevrolet Camaro (Sherriff),SC11,N/A,,
+Carrera,Chevrolet Camaro (Street),SC11,N/A,,
+Carrera,Chevrolet '67 Corvette,CB30,1301,,
+Carrera,Chevrolet Corvette C6R Race,CB59,1407 1408 1409 1410,,
+Carrera,Chevrolet Corvette C6R Race,CA90,12404,,
+Carrera,Chevrolet Corvette C7R,CA02,1307,,
+Carrera,Chevrolet Corvette C7R (1:24),CA292,12401,,
+Carrera,Chevrolet Corvette C8R,CA02,1310,,
+Carrera,Chevrolet Corvette C8R (1:24),CA292,12401,,
+Carrera,Chevrolet Corvette Gran Sport,N/A,12406,,
+Carrera,Chevrolet Dekon Monza,CA02 CA03,1303,,
+Carrera,Classic Nascar,CA06,N/A,,
+Carrera,Dodge Charger 500 (Classic),CB30,1302,,
+Carrera,Dodge Charger 500 (1968 Street),CA06,1302,,
+Carrera,Dodge Charger SRT8,CA06,1302,,
+Carrera,Dodge Daytona (Classic Nascar),CA06,1302,,
+Carrera,DTM - All (1:32),CA02 CA03,1310,,
+Carrera,DTM - All (1:24),CA292,12401,,
+Carrera,F1 (2025),N/A,1304,,
+Carrera,F1 (Modern),CA37,1306,,
+Carrera,Ferrari 166,CB30,1301,,
+Carrera,Ferrari 296 (1:24),N/A,12418,,
+Carrera,Ferrari 296 (1:32),N/A,1310,,
+Carrera,Ferrari 330 P4 (1:24),N/A,12407,,
+Carrera,Ferrari 458,CA16,1308,,
+Carrera,Ferrari 458 (1:24),N/A,12402,,
+Carrera,Ferrari 488 (1:24),N/A,N/A,,
+Carrera,Ferrari 488,CB59,1409,,
+Carrera,Ferrari 512 (1:24),N/A,12414,,
+Carrera,Ferrari 575,FL02 FL03,1003 1004,,
+Carrera,Ferrari 575 (1:24),CA90,12404,,
+Carrera,Ferrari 599,CA16,1308,,
+Carrera,Ferrari (1:24),N/A,12402,,
+Carrera,Ferrari Enzo,CB58,1408,,
+Carrera,Ferrari FXX,FL03 NC03,1004,,
+Carrera,Fire Truck,CA21,1309,,
+Carrera,T'bird (1956),CB30,1301,,
+Carrera,Ford Capri Group 5,CA21,1309,,
+Carrera,Ford Capri Group 5 (1:24),N/A,12415,,
+Carrera,Ford GT,N/A,1105,,
+Carrera,Ford GT40 (1:24),N/A,12406,,
+Carrera,Ford GT GTE,CA03,1105,,
+Carrera,Ford GT GTE (1:24),CA292,12401,,
+Carrera,Ford Mustang 1965,CB30,1301,,
+Carrera,Ford Mustang Fire/Police,CA02 CA03,1310,,
+Carrera,Ford Mustang GT3,N/A,1307,,
+Carrera,Ford Mustang GT350,CB29,1204,,
+Carrera,Ford Mustang Shelby GT350,N/A,1601,,
+Carrera,Ford Mustang GTY,CA101,1313,,
+Carrera,Ford Torino (Classic Nascar),CA06,1302,,
+Carrera,Formula E,CA02,1310,,
+Carrera,Francesco Bennolli,CA21,1309,,
+Carrera,Green GT H2,CA02 CA03,1307,,
+Carrera,Hot Rod (1:24),BR06,ST014,,
+Carrera,KTM X Bow,CA02,1310,,
+Carrera,Lamborghini Huracan (Race),CB58 CB59,1310,,
+Carrera,Lamborghini Huracan (1:24),N/A,12417,,
+Carrera,Lamborghini Huracan (Street),CB57,1310,,
+Carrera,Lanci Beta Montecarlo,CB48,1007 1008 1009 2112 2114,,
+Carrera,Lola T70 (1:24),N/A,12416,,
+Carrera,Maserati A6GCS,CB30,1301,,
+Carrera,McLaren 720S,CA02 CA03,1310,,
+Carrera,McLaren M20 CanAm,N/A,1304,,
+Carrera,Mercedes AMG GT3,CA02 CA03,1310,,
+Carrera,Mercedes AMG C63 DTM,CA02 CA03,1310,,
+Carrera,Mercedes AMG C63 DTM (1:24),CA292,12401,,
+Carrera,Mercedes AMG C Klasse 2007,CA02 CA03,1307,,
+Carrera,Mercedes SLR,NC02 NC03,1003 1004,,
+Carrera,Mercedes SLS,CA16,1308,,
+Carrera,Mustang GTY,CA101,1313,,
+Carrera,NASCAR Camaro NextGen ZL1,CA105,1314,,
+Carrera,NASCAR COT,CA02 CA03,1303,,
+Carrera,NIO EP9,CB58,1408,,
+Carrera,Panoz (1:24),N/A,12412,,
+Carrera,Pantera De Tomaso,CB52,1315R,,
+Carrera,Peugeot 908 HDI FAP,CA02 CA03,1404,,
+Carrera,Plymouth Fury (1960),CB30,1301,,
+Carrera,Plymouth Roadrunner (Classic),CA06,1302,,
+Carrera,Plymouth Superbird (Classic),CA06,1302,,
+Carrera,Pontiac GTO,CB30,1301,,
+Carrera,Porsche 911 RSR,CA03,1310,,
+Carrera,Porsche 911 RSR (1:24),CA292,12401,,
+Carrera,Porsche 911 S Cabriolet,FLO2,1003,,
+Carrera,Porsche 917/30 CanAm,N/A,1305,,
+Carrera,Porsche 917K,CA21,1309,,
+Carrera,Porsche 917K (1:24),N/A,12414,,
+Carrera,Porsche 918 Spyder,FLO3,1004,,
+Carrera,Porsche 935/19 GT2,CB64,1100BRS,,
+Carrera,Porsche 935/78 Moby,CB64,1100BRS,,
+Carrera,Porsche 997 GT3 (1:24),N/A,12410,,
+Carrera,Porsche 911 GT3 R (1:24),N/A,12417,,
+Carrera,Porsche GT3 RSR,CA02,1310,,
+Carrera,Porsche GT3 (1:24),N/A,12401,NOTE: 1:24 Porsche 911 GT3 R (1:24) uses 12417,
+Carrera,Porsche RS Spyder (1:24),N/A,12413,,
+Carrera,Porsche RS Spyder,CB58,1408,,
+Carrera,Race Truck,CA21,1309,,
+Carrera,Tanker,CA21,1309,,
+Carrera,Tow Truck,CA21,1309,,
+Carrera,VW Beetle (Group 5),CA11 CA12,1312,,
+Carrera,X Bow (KTM),CA02,1310,,
+Cartrix,Alfa Romeo (Grand Prix),CB29,1204,,
+Cartrix,Aston Martin (Grand Prix),CB29,1204,,
+Cartrix,BMW Z3,CB34,1402,,
+Cartrix,BRM (Grand Prix),CB29,1204,,
+Cartrix,Bugatti (Grand Prix),CB29,1204,,
+Cartrix,Ferrari D50 (Grand Prix),CB29,1204,,
+Cartrix,Gordini (Grand Prix),CB29,1204,,
+Cartrix,Gran Prix (Vintage F1),CB29,1204,,
+Cartrix,Kurtis Kraft (Grand Prix),CB29,1204,,
+Cartrix,Kurtis KK3000,CB29,1204,,
+Cartrix,Lancia D50 (Grand Prix),CB29,1204,,
+Cartrix,Lotus 16 (Grand Prix),CB29,1204,,
+Cartrix,Maserati (Grand Prix),CB29,1204,,
+Cartrix,Mercedes W196 (Grand Prix),CB29,1204,,
+Cartrix,Porsche Boxter,CB34,1402,,
+Cartrix,Talbot Lago (Grand Prix),CB29,1204,,
+Cartrix,Vanwall (Grand Prix),CB29,1204,,
+CB Design,14 x 6mm Wheels,CB07 CB08,N/A,,
+CB Design,14 x 7mm Wheels,CB12 CB13,N/A,,
+CB Design,14 x 8mm Wheels,CB17 CB18,N/A,,
+CB Design,14.5 x 12mm (F1-Style) Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1425,,
+CB Design,15 x 7mm Wheels,CB27 CB28 CB29 CB30,1204,,
+CB Design,15 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+CB Design,15 x 10mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,,
+CB Design,15 x 11mm Wheels,CB46 CB47 CB48 CB49,1007 1008 1009,,
+CB Design,15 x 12mm Wheels,CB52 CB53,1424 1425,,
+CB Design,15 x 13mm Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,,
+CB Design,17 x 8mm Wheels,CB37 CB38 CB34,1400 1401 1402 1403 1404,,
+CB Design,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+CB Design,17 x 11mm Wheels,CB41 CB42 CB43 CB44,1100CRS,Less typical (recommend gluing),
+CB Design,27 x 12mm Wheels (1:24 - Center,HR01,1100ARS 1100BRS 1100CRS,,
+CB Design,27 x 12mm Wheels (1:24 - No,HR02,N/A,,
+CB Design,27 x 18mm Wheels (1:24 - Center,HR11,N/A,,
+FLY/GB Track,Chevron,CB46 CB47 CB48 CB49,1007 1008 1009,,
+FLY,Classics,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,Daytona Prototype,N/A,1011,,
+FLY,Dodge Viper (2004),FL02 FL03,1003 1004 1005,,
+FLY,Ferrari 365 GTB/4,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,Ferrari 512,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,Ferrari F40,FL02 FL03,1003 1004,,
+FLY,Ford Capri,,1010,,
+FLY,Ford Capri Racing EVO3,CB33 CB34,1402 1403,,
+FLY,Ford GT40,CB46 CB47 CB48 CB49,1007 1008 1009 2212 2114,,
+FLY,Ford GT40 Mk II,CB46 CB47 CB48 CB49,1007 1008 1009 2212 2114,,
+FLY,Joest Porsche WSC,FL02 FL03,1003 1004,,
+FLY,Lancia Beta,N/A,1010,,
+FLY,Lister Storm,FL02 FL03,1003 1004,,
+FLY,Lola B98/10,FL02 FL03,1003 1004,,
+FLY,Lotus 78,FL07,N/A,,
+FLY,Lola T70,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,March 761,FL06,N/A,,
+FLY,Marcos LM600,FL02 FL03,1003 1004,,
+FLY,Panoz,N/A,1000 1001 1002,,
+FLY,Porsche 906/Carrera 6,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,Porsche 908,CB46 CB47 CB48 CB49,1007 1008 1009 2112 2114,,
+FLY,Porsche 911,CB22,1422,,
+FLY,Porsche 911 GT,FL02 FL03,1003 1004,,
+FLY,Porsche 911 GT1 Racing EVO3,CB33 CB34,1402 1403,,
+FLY,Porsche 917K,CB46 CB47 CB48 CB49,1007 1008 1009,,
+FLY,Porsche 917 LH,CB46 CB47 CB48 CB49,1007 1008 1009,,
+FLY,Porsche 935,N/A,1010,,
+FLY,Porsche EVO,FL02 FL03,1003 1004,,
+FLY,Saleen GT Racing EVO,CB33 CB34,1402 1403,,
+FLY,Saleen S7R,FL02 FL03,1003 1004,,
+FLY,Sunred,N/A,10,,
+FLY,Trucks,FL91 FL92,N/A,,
+FLY,Venturi 600,FL02 FL03,1003 1004,,
+FLY,Viper,N/A,1000 1001,,
+FLY,Viper (2004),FL02 FL03,1003 1004,,
+FLY,Williams FW07,FL07,N/A,,
+FLY,Williams FW08C,FL07,N/A,,
+H&R Racing,27 x 12mm Wheels (1:24 - Center,HR01,N/A,,
+H&R Racing,27 x 12mm Wheels (1:24 - No,HR02,N/A,,
+H&R Racing,27 x 18mm Wheels (1:24 - Center,HR11,N/A,,
+H&R Racing,27 x 18mm Wheels (1:24 - No,HR12,N/A,,
+Monogram,Daytona Coupe,CB30,1301,,
+Monogram,Corvette (1965),FL02 FL03,1003 1004,,
+Monogram,Greenwood Corvette,CB23,1007 1425 1500 2112 2114,,
+Monogram,Mustang,CB30,1423,,
+Monogram,Lola T70,CB44,1405,,
+Monogram,NASCAR (Vintage),N/A,1700,,
+MR Slotcar,Corvette C1,CB29,1204,,
+MR Slotcar,Ferrari 333 SP,CB33,1402,,
+MR Slotcar,Ferrari 333 SP,CB42,1403,,
+MR Slotcar,Jaguar XJ-220,CB33,1402,,
+MR Slotcar,Jaguar XJ-220,CB42,1403,,
+MR Slotcar,Mazda 787B,CB33,1402,,
+MR Slotcar,Mazda 787B,CB42,1403,,
+MR Slotcar,McLaren F1 GTR,CB33,1402,,
+MR Slotcar,McLaren F1 GTR,CB42,1403,,
+MR Slotcar,Porsche 911 GT1 EVO,CB33,1402,,
+MR Slotcar,Porsche 911 GT1 EVO,CB42,1403,,
+MR Slotcar,Shadow DN4,CB44,1405,,
+MRRC,Chaparral,CB36,1405,,
+MRRC,Cheetah,CB36,2000,,
+MRRC,Cobra,CB36,2000,,
+MRRC,Ford GT Mk IV,CB36,2000,,
+MRRC,Jaguar MK1,CB36,2000,,
+MRRC,Kellison,CB36,2000,,
+MRRC,King Cobra,CB36,2000,,
+MRRC,Porsche 904 GTS,CB36,2000,,
+MRRC,Porsche 910,CB36,1700 2000,,
+MRRC,Porsche 911,CB36,2000,,
+MRRC,Sebring Chassis,CB36,2000,,
+Ninco,Acura LMP,NC02 NC03,1200 1201,,
+Ninco,Audi TT,NC02 NC03,1200 1201,,
+Ninco,Austin Healey,CB28,1204 1301,,
+Ninco,BMW M3 GTR,NC02 NC03,1200 1201,,
+Ninco,BMW V12,NC02 NC03,1200 1201,,
+Ninco,Chevrolet Corvette 56',CB28,1301,,
+Ninco,Chevrolet Corvette Callaway C12,NC02 NC03,1200 1201,,
+Ninco,Chevrolet Corvette Z06 GT3,NC02 NC03,1200 1201,,
+Ninco,Chevrolet Cruz,NC02 NC03,1200 1201,,
+Ninco,Classics (Exc. Cobra),CB28,1204 1301,,
+Ninco,F1,N/A,1202,,
+Ninco,Ferrari 166 MM Barchetta,CB28,1204 1301,,
+Ninco,Ferrari 250 Testarossa,CB28,1204 1301,,
+Ninco,Ferrari F360,NC02 NC03,1200 1201,,
+Ninco,Ford GT,NC02 NC03,1200 1201,,
+Ninco,Ford Mustang,NC02 NC03,1200 1201,,
+Ninco,Honda NSX,NC02 NC03,1200 1201,,
+Ninco,IRL,N/A,1202,,
+Ninco,Jaguar E-Type,CB28,1204 1301,,
+Ninco,Jaguar XK120,CB28,1204 1301,,
+Ninco,Karts,N/A,1203,,
+Ninco,Lamborghini Gallardo,NC02 NC03,1200 1201,,
+Ninco,Lamborghini Murcielago,NC02 NC03,1200 1201,,
+Ninco,Lexus SC430,NC02 NC03,1200 1201,,
+Ninco,Lightning Pro Race,CB57 CB58 CB59,1407 1408,,
+Ninco,Lotus Exige GT3,NC02 NC03,1200 1201,,
+Ninco,McLaren F1 GTR,NC02 NC03,1200 1201,,
+Ninco,Mercedes CLK,NC02 NC03,1200 1201,,
+Ninco,Mercedes DTM,NC02 NC03,1200 1201,,
+Ninco,Mini Cooper,N/A,1402,,
+Ninco,Mosler MT900,NC02 NC03,1200 1201,,
+Ninco,Mustang,NC02 NC03,1200 1201,,
+Ninco,Nissan 350Z,NC02 NC03,1200 1201,,
+Ninco,Porsche 356,CB28,1204 1301,,
+Ninco,Porsche 550 Spyder,CB28,1204 1301,,
+Ninco,Porsche 997,NC02 NC03,1200 1201,,
+Ninco,Porsche GT1,NC02 NC03,1200 1201,,
+Ninco,Pro-Race 15 Wheels (#80718),CB34,1400 1401 1402 1403 1404,,
+Ninco,Pro-Race Wheel (#80740),NC02,1200 1201,,
+Ninco,Rally,N/A,1402,,
+Ninco,Renault Megane,NC02 NC03,1200 1201,,
+Ninco,Toyota Supra,NC02 NC03,1200 1201,,
+NSR,NSR5001 16 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride,
+NSR,NSR5002 16 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,Air Ride,
+NSR,NSR5002 16 x 8mm Wheels,DF132 DF133 DF134,1400 1401 1402 1403 1404,No Air Ride,
+NSR,NSR5003 17 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride,
+NSR,NSR5004 17 x 10mm Wheels,CB57 CB58 CB59,1407 1408,Air Ride,
+NSR,NSR5004 17 x 10mm Wheels,DF157 DF158 DF159,1407 1408,No Air Ride,
+NSR,NSR5005 14.5 x 12.2mm F1,CB71 CB72,1424 1425,,
+NSR,NSR5009 16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride,
+NSR,NSR5010 16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,Air Ride,
+NSR,NSR5010 16.5 x 8mm Wheels,DF132 DF133 DF134,2102 2104,No Air Ride,
+NSR,NSR5015 16 x 10mm Wheels,CB41 CB42 CB43 CB44,2102 2104,Air Ride; 1100CRS lower than CB43 CB44,
+NSR,NSR5015 16 x 10mm Wheels,DF157 DF158 DF159,1407 1408,Air Ride,
+NSR,NSR5016 16 x 10mm Wheels,CB41 CB42 CB43 CB44,1100CRS,Air Ride; 1100CRS lower than CB43 CB44,
+NSR,NSR5016 16 x 10mm Wheels,DF157 DF158 DF159,1407 1408 1409,No Air Ride,
+NSR,NSR5017 17 x 10mm Wheels,CB57 CB58 CB59,1408 1409 1410,,
+NSR,NSR5021 13 x 10mm Wheels,NR001,N/A,,
+NSR,Abarth 500 Assetto Corse,CB32,1402,,
+NSR,Abarth S2000,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Aston Martin Vantage GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Audi R18 TDI LMP1,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Audi R8 LMS,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,BMW Z4 GTE,CB58 DF158,1408,,
+NSR,Chevrolet Corvette C6R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Chevrolet Corvette C7R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Chevrolet Corvette C8R,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,F1 (#NSR5005),CB71 CB72,1424 1425,,
+NSR,F1 Formula 22,NC03,1201 2112,,
+NSR,F1 Formula 86/89,NR001,1108,1108 is new tire 11/25,
+NSR,Ford GT40 Mk I,CB34,1403 1404,,
+NSR,Ford GT40 Mk II,CB34,1403 1404,,
+NSR,Ford GT40 Mk IV,CB34,1403 1404,,
+NSR,Ford P68,CB34 CB35,1403 1404,CB35 closest to stock OD,
+NSR,Lola T280/T290,CB34 DF134,1403 1404,,
+NSR,McLaren 720S,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Mercedes AMG GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Mosler MT900R,CB43 DF159,1403 1404 1405,CB43 - Air Ride DF159 - No Air Ride,
+NSR,Porsche 908/3,CB35,1403 1404 1405,,
+NSR,Porsche 917/10K,CB44 (Air Ride) TS44,1403 1404 1405,,
+NSR,Porsche 917K,CB34,1403 1404 1405,,
+NSR,Porsche 997 GT3,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Porsche 997 Rally,CB58 DF158,1401,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Renault Clio Cup,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+NSR,Renault Clio R3 Rally,CB58 DF158,1408,CB58 - Air Ride DF158 - No Air Ride,
+Pioneer,Bullitt Mustang,CB28,1301,,
+Pioneer,Camaro (Race Liveries),PN150,1900,,
+Pioneer,Camaro (Street),CB28,1301,,
+Pioneer,Charger,CB29,1901,,
+Pioneer,Mustang (Bullitt),CB28,1301,,
+Pioneer,Mustang (Race Liveries),PN150,1900,,
+Pioneer,Mustang Notchback (TransAm),PN150,1900,,
+Pioneer,Legends,PN150,1900,,
+Policar,BRM P160,CB53,1425,,
+Policar,Ferrari 126,PC010,1423 1424 1425,,
+Policar,Ferrari 312 PB,CB53,1404 1405,,
+Policar,Ferrari 330 P4,CB35,1404 1405+D354+D359,,
+Policar,Ferrari 412P,CB35,1404 1405,,
+Policar,Ferrari F40,CB58,1408,Motor shaft length may need to be trimmed slightly,
+Policar,Lotus 72,CB53,1425,NOT 72D or 72E (see below),
+Policar,Lotus 72D,FL06,N/A,,
+Policar,Lotus 72E,FL06,N/A,,
+Policar,March 701,CB53,1425,,
+Policar,Monoposto F1,PC010,1423 1424 1425,,
+Policar,Subaru BRZ,CB34,1404,,
+Policar,Subaru WRX,CB34,1404,,
+Policar,Toyota GT86,CB33,1403,,
+Proslot,Porsche GT2,CB57 CB58 CB59,1407 1408 1409,,
+Proslot,Toyota GT1,CB57 CB58 CB59,1407 1408 1409,,
+Revell,Jaguar E-Type,N/A,1700,,
+Revoslot,Alpha Romeo,RS145,1503,,
+Revoslot,BMW 2002,RS145,1503,,
+Revoslot,Corvette CSR,TS43,1502,TS44 if larger OD desired,
+Revoslot,Datsun 510,RS145,1503,,
+Revoslot,Ferrari 333 SP,TS43,1502,TS44 if larger OD desired,
+Revoslot,Ferrari F40,TS43,1502,TS44 if larger OD desired,
+Revoslot,Ford Escort Mk 1,RS145,1503,,
+Revoslot,Lister Storm,TS43,1502,TS44 if larger OD desired,
+Revoslot,Maxda RX-7,N/A,1504,,
+Revoslot,Marcos LM600 (RS0013 and RS75),RS75,1501,,
+Revoslot,Marcos LM600 (RS0032 and RS75),TS43,1502,TS44 if larger OD desired,
+Revoslot,McLaren F1 GTR,TS43,1501,TS44 if larger OD desired,
+Revoslot,Mercedes CLK,TS43,1502,TS44 if larger OD desired,
+Revoslot,Porsche 911 GT1,TS43,1502,TS44 if larger OD desired,
+Revoslot,Porsche 911 GT2 (RS0019 and RS75),RS75,1501,,
+Revoslot,Porsche 911 GT2 (RS0030 and RS75),TS43,1502,TS44 if larger OD desired,
+Revoslot,Porsche 934/5,N/A,1504,,
+Revoslot,Toyota GT-ONE,TS43,1502,TS44 if larger OD desired,
+Revoslot,Toyota Supra,TS43,1502,,
+Revoslot,Viper,TS43,1502,TS44 if larger OD desired,
+Riggen,Home Set Cars,N/A,V-100,,
+Scaleauto,1:24,SA01,ST4043,,
+Scaleauto,Acura NSX,CB58,1408,,
+Scaleauto,American 7R,CB58,1408,,
+Scaleauto,American 7R (1:24),SA01,ST4043,,
+Scaleauto,Audi LMS GT3,CB58,1408,,
+Scaleauto,Audi LMS GT3 (1:24),SA01,ST4043,,
+Scaleauto,BMW M1 Gr. 5,CB58,1408,,
+Scaleauto,BMW M3 GT2 (1:24),SA01,ST4043,,
+Scaleauto,BMW V12 LMR,CB58,1408,,
+Scaleauto,BMW Z4 GT3,CB58,1408,,
+Scaleauto,BMW Z4 GT3 (1:24),SA01,ST4043,,
+C8 Laviolette GT2R,CB58,1408,,,
+Scaleauto,C8 Spyder GT2R,CB58,1408,,
+Scaleauto,Cadillac V-LMdh,CB33 CB34,1402 1403,,
+Scaleauto,Chevrolet Corvette C7R,CB58,1408,,
+Scaleauto,Chevrolet Corvette C7R (1:24),SA01,ST4043,,
+Scaleauto,Chevrolet Corvette C8R,CB58,1408,,
+Scaleauto,De Tomaso Pantera Gr. 3,CB58,1408,,
+Scaleauto,De Tomaso Pantera Gr. 4,CB58,1408,,
+Scaleauto,De Tomaso Pantera Gr. 5,CB58,1408,,
+Scaleauto,F1 (Formula 90-97),PC010,1423 1424 1425,,
+Scaleauto,Ford RS200,CB58,1408,,
+Scaleauto,Formula 90-97 (F1),CB22,N/A,,
+Scaleauto,Honda HSV-010 Super GT,CB58,1408,,
+Scaleauto,Jaguar XKR GT2 (1:24),SA01,ST4043,,
+Scaleauto,LB GT3 (1:24),SA01,ST4043,,
+Scaleauto,Mercedes SLS AMG GT3,CB58,1407 1408,,
+Scaleauto,Mercedes SLS AMG GT3 (1:24),SA01,ST4043,,
+Scaleauto,MG Metro 6R4,CB58,1408,,
+Scaleauto,Pantera Group 3,CB58,1408,,
+Scaleauto,Peugeot 9x8 LMH,CB33 CB34,1401 1402,,
+Scaleauto,Peugeot P208 T16,CB58,1408,,
+Scaleauto,Porsche 935-76 Gr. 5 (see note),CB58,1408,,
+Scaleauto,Porsche 935-77 Gr. 5 (see note),CB58,1408,,
+Scaleauto,Porsche 935-J Gr. 5 (see note),CB58,1408,,
+Scaleauto,Porsche 959,CB58,1408,,
+Scaleauto,Porsche 963,CB33 CB34,1401 1402,,
+Scaleauto,Porsche 991 RSR,CB58,1408,,
+Scaleauto,Porsche 991 RSR (1:24),SA01,ST4043,,
+Scaleauto,Porsche 997 GT3 (1:24),SA01,ST4043,,
+Scaleauto,Porsche 997 RSR (1:24),SA01,ST4043,,
+Scaleauto,Porsche Carrera RS,CB58,1408,,
+Scaleauto,Porsche Carrera RSR 3.0,CB58,1408,,
+Scaleauto,Radical LMP SR9,CB58,1408,,
+Scaleauto,Saleen S7R,CB58,1408,,
+Scaleauto,SRT Viper GTS-R,CB58,1408,,
+Scaleauto,SRT Viper GTS-R (1:24),SA01,ST4043,,
+Scalextric,Subaru Impreza WRC,CB58,1408,,
+Scalextric,A1 Grand Prix,SC130,1103,,
+Scalextric,Acura NSX (JGTC),CB64,1105,,
+Scalextric,AMC Hornet,SC02,1102,,
+Scalextric,AMC Javelin,SC02,1102,,
+Scalextric,Aston Martin V8 (James Bond),SC01,1601,,
+Scalextric,Aston Martin V8 (Gulf Race),CB64 CB65,1100BRS 1100CRS,,
+Scalextric,Aston Martin Vantage GT3,CB58,1408,,
+Scalextric,Aston Martin Vantage GT3,CB64,1100BRS,,
+Scalextric,Audi R8 LMS GT3,CB64,1100BRS,,
+Scalextric,Audi R8 Police,CB64,1100BRS,,
+Scalextric,Audi R10,,1010,,
+Scalextric,Batman (Ginetta G60),CB58 CB59,1408 1409,,
+Scalextric,Bentley Continental GT3,CB65,1100BRS,,
+Scalextric,Blues Brothers Chicago Police,SC02,1102,,
+Scalextric,BMW 125 (BTCC),CB33,1402 1403,,
+Scalextric,BMW 320i,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,BMW 330i,CB33,1402 1403,,
+Scalextric,BMW E30 M3 (DTM),CB33 CB34,1402 1403,,
+Scalextric,BMW Mini,CB33,1106,,
+Scalextric,BMW Z4 GT3,CB33,1402 1403,,
+Scalextric,BTCC BMW 125,CB33,1402 1403,,
+Scalextric,BTCC Honda Civic,CB33,1402 1403,,
+Scalextric,BTCC MG6,CB33,1402 1403,,
+Scalextric,Cadillac V-Series Hypercar,CB58,1408,,
+Scalextric,Cadillac Northstar LMP,CB64,1100ARS,,
+Scalextric,Chaparral 2F,CB34 CB35,1403 1404,,
+Checker Cab,N/A,1700,,,
+Scalextric,Chevrolet Camaro (Trans-Am),SC02,1102,,
+Scalextric,Chevrolet Camaro IROC-Z,SC01,1601,,
+Scalextric,Chevrolet Camaro Z28 (Spa 1973),SC02,1102,C4216,
+Scalextric,Chevrolet Camaro Z28 (Spa 1980),CB33,1403,C4235,
+Scalextric,Chevrolet Camaro Z28 ('79),SC09,1603,C4227,
+Scalextric,Chevrolet Corvette L88 '68/'69,SC02,1602,,
+Scalextric,Chevrolet Corvette C6R,SC11,N/A,,
+Scalextric,Chevrolet Corvette C8R,SC05,N/A,,
+Scalextric,Chevrolet Monte Carlo (Stock),SC01,1601,,
+Scalextric,Cobra 289 (Shelby),SC02,1102 1104 1900,,
+Scalextric,Cuda/Barracuda,SC09,1603,,
+Scalextric,Dallara Indy,SC130,1103,,
+Scalextric,Daytona Prototype,CB58,1407,,
+Scalextric,DeLorean,CB36,1405,,
+Scalextric,Dodge Challenger (Trans-Am),SC02,1102,,
+Scalextric,Dodge Charger,SC02,1102,,
+Scalextric,Dodge Monaco Blues Brothers,SC02,1102,,
+Scalextric,Dodge Viper GT,CB65,1100CRS,,
+Scalextric,F1 (Modern),SC130,1103,,
+Scalextric,F1 START,SC130,1103,,
+Scalextric,Ferrari 156,CB28,1301,,
+Scalextric,Ferrari 250 GTO,SC02,1102,,
+Scalextric,Ferrari 330 P4,SC01,1102 1601,,
+Scalextric,Ferrari 375,CB29,1204,Wider than stock,
+Scalextric,Ferrari 412P,SC01,1301,,
+Scalextric,Ferrari F430,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Ford Anglia,CB12 CB13,N/A,,
+Scalextric,Ford Escort,CB13,N/A,,
+Scalextric,Ford Escort Mk I,SC02,1102 1601,,
+Scalextric,Ford Falcon XB,SC02,1601,,
+Scalextric,Ford Falcon XC,SC02,1102,,
+Scalextric,Ford Falcon XW,CB18,N/A,,
+Scalextric,Ford Fiesta,CB32,1401,,
+Scalextric,Ford Focus WRC,N/A,1106,,
+Scalextric,Ford Gran Torino,SC02,1102,,
+Scalextric,Ford GT,CB64,1100BRS,,
+Scalextric,Ford GT GTE,CB59,1409,,
+Scalextric,Ford GT40,SC16,1104,,
+Scalextric,Ford Lotus Cortina,CB13,N/A,,
+Scalextric,Ford Mustang FR500C,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Ford Mustang (Trans-Am),SC02,1102,,
+Scalextric,Ford Mustang GT3 GT4,CB59,1409 1410,,
+Scalextric,Ford Mustang Shelby GT350 ('66),N/A,1601,,
+Scalextric,Ford Mustang (Alan Mann),SC09,N/A,SC01 is wider but may interfere with wheel well,
+Scalextric,Ford Mustang (Goodwood),SC09,N/A,SC01 is wider but may interfere with wheel well,
+Scalextric,Ford Puma WRC 4WD,CB32,1401,,
+Scalextric,1403,SC01,1601,,
+Scalextric,Formula E,CB34,1402,Slightly narrower than stock,
+Scalextric,Formula E,CB43,N/A,Slightly wider than stock,
+Scalextric,Formula E,CB59,1409,,
+Scalextric,Ginetta G60-LT-P1,CB58 CB59,1408 1409,,
+Scalextric,Gurney Eagle,N/A,1103,,
+Scalextric,Honda Civic (BTCC),CB33,1402 1403,,
+Scalextric,Honda NSX JGT1C,N/A,1105,,
+Scalextric,IRL (Indy Racing League),SC130,1103,,
+Scalextric,Jaguar I-PACE,CB59,1409,,
+Scalextric,Jaguar XKR,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Joker Inspired Car,SC16,1104,,
+Scalextric,Knight Rider K.I.T.T.,CB34,1403,,
+Scalextric,Lamborghini Centenario,CB58,1408,,
+Scalextric,Lamborghini Countach,CB59,1409,,
+Scalextric,Lamborghini Gallardo,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Lamborghini Revuelto,N/A,1010,,
+Scalextric,Lancia Stratos,CB41 CB42,1104 1105,,
+Scalextric,Lister Storm,FL03,1004 1010,,
+Scalextric,LMP,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Lotus 25,CB28,1301,,
+Scalextric,Lotus 49/49B,SC130,1103,Slightly wider and taller than stock,
+Scalextric,Lotus 97T,PC010,1423 1424 1425,,
+Scalextric,Lotus 99T,PC010,1423 1424 1425,,
+Scalextric,Lotus Esprit,SC02,1102,,
+Scalextric,Lotus Evora GT4,SC11,N/A,,
+Scalextric,Lotus Exige,CB32,1401,,
+Scalextric,Maserati 250F,CB30,N/A,,
+Scalextric,Maserati MC12,CB57,1003 1004 1010 1407,,
+Scalextric,Maserati Trofeo,CB42,1105,,
+Scalextric,McLaren 720S,CB58,1408,,
+Scalextric,McLaren F1 GTR,CB59,1409,,
+Scalextric,McLaren M20,N/A,1304,,
+Scalextric,McLaren M23,PC010,1423 1424 1425,,
+Scalextric,McLaren M7C,CB21,N/A,,
+Scalextric,McLaren MP4-12C,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,McLaren Mercedes SLR,N/A,1010,,
+Scalextric,Mercedes 300 SLR,N/A,1204,,
+Scalextric,Mercedes AMG DTM,N/A,1105,,
+Scalextric,Mercedes AMG GT3,SC20,1105 2112 2114,,
+Scalextric,Mercedes F1 Safety Car,N/A,1010,,
+Scalextric,Mercedes SLK,N/A,1105,,
+Scalextric,Mercury Cougar,SC02,1102,,
+Scalextric,MG Lola,CB64,1100ARS,,
+Scalextric,MG6 (BTCC),CB32,1401 1402,,
+Scalextric,Mini Cooper,N/A,1106,,
+Scalextric,Mirage GR8,CB53,1404 2114,,
+Scalextric,Mitsubishi Lancer (WRC),N/A,1106,,
+Scalextric,Nascar (1997 - 2009),SC130,1101 1103,,
+Scalextric,Nissan 350Z (JGTC),CB64,1105,,
+Scalextric,Nissan GTR (Drift),N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Nissan Skyline (JGTC),CB64,1100ARS,,
+Scalextric,Opel Astra DTM,N/A,1105,,
+Scalextric,Opel V8 Coupe DTM,N/A,1105,,
+Scalextric,Opel Vectra DTM,N/A,1105,,
+Scalextric,Pagani Huayra Roadster BC,CB58,1408,,
+Scalextric,Peugeot 908 HDI FAP,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Plymouth 'Cuda Trans-Am,SC09,1102 1601,,
+Scalextric,Porsche 911 GT3 R,CB58,1105 1408,,
+Scalextric,Porsche 911 RSR,SC20,2112 2114,,
+Scalextric,Porsche 911 RSR 3.0,CB52,2200,,
+Scalextric,Porsche 997,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Porsche 997 GT3 RS,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Porsche RS Spyder,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,RASIO C20,SC16,1104,,
+Scalextric,Seat Leon,N/A,1106,,
+Scalextric,Shelby Cobra 289,SC02,1102,,
+Scalextric,Shelby Fastback,N/A,1601,,
+Scalextric,START F1,SC130,1103,,
+Scalextric,START Pro Racing,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Suburu WRC,N/A,1106,,
+Scalextric,Team GT Lightning,CB65,1100BRS,,
+Scalextric,Team GT Zombie,N/A,1100BRS,,
+Scalextric,Team LMP,CB65,1100BRS,,
+Scalextric,Toyota Supra (JGTC),CB64,1105 1100ARS,,
+Scalextric,Team Scalextric_Starco Racing,N/A,1107,,
+Scalextric,Truck5,FL91,1107,,
+Scalextric,TVR T400R,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Tyrell P34,PC010,N/A,,
+Scalextric,VW Classic Beetle,N/A,2000,,
+Scalextric,Williams FW11,PC010,N/A,,
+SCX,1/43 NASCAR,N/A,1600,,
+SCX,Aston Martin DB9,CB57,1407,,
+SCX,Aston Martin Vantage,CB57,1407,,
+SCX,Audi R8 Pro,CB32,1407 1603,,
+SCX,Audi R10,CB57,1407,,
+SCX,BMW 320i,N/A,1402 1403,,
+SCX,Citroen DS21,CB29,1601,,
+SCX,Corvette C6R,CB57,1407,,
+SCX,Cuda,SC01,1601,,
+SCX,Dome Judd,N/A,1010,,
+Ferrari 360,CB57,1407,,,
+SCX,Ferrari 550,CB57,1407,,
+SCX,Ferrari 550 Maranelli,N/A,1407,,
+SCX,Ferrari FXX,N/A,1407,,
+SCX,Ford Sierra RS Cosworth,N/A,1603,,
+SCX,Formula 1,ST1604R,1604,,
+SCX,Morgan Aero 8,N/A,1402,,
+SCX,MG A 1500,CB28,1301,,
+SCX,Nascar,SC01,1601,1601 for pre-COT,
+SCX,Nascar (Pro),SC01,1601,,
+SCX,Peugeot 908 LMP,CB57,1407,,
+SCX,Porsche 911 GT3 Cup,CB57,1407,,
+SCX,Seat Cupra GT,N/A,1402 1403,,
+SCX,Seat Leon,CB32,1400,,
+SCX,Tuner Car 2,N/A,1402,,
+SCX,SCX Volvo GT,N/A,1401,,
+Sideways,15.9 x 10mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44,
+Sideways,15.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Sideways,16.5 x 10mm Wheels,CB41 CB42 CB43 CB44,1400 1402 1403,1100CRS lower than CB43 CB44,
+Sideways,16.5 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Sideways,16.9 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,,
+Sideways,16.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Sideways,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,,
+Sideways,17.3 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Sideways,Fly Truck Wheels,FL91 FL92,N/A,,
+Sideways,ASV GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on,
+Sideways,BMW 320 Group 5,CB34,1402,,
+Sideways,BMW M1 Group 5,CB34,1402,,
+Sideways,BMW M6 GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on,
+Sideways,Daytona Prototype (Dallara),CB57 CB58,1407 1408,,
+Sideways,Daytona Prototype (Riley),CB57 CB58,1407 1408,,
+Sideways,Ferrari 512 BB,CB34,1402,,
+Sideways,Ford Capri Group 5,CB34,1402,,
+Sideways,Ford Escort Group 5,CB34,1402,,
+Sideways,Ford GTE GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on,
+Sideways,Ford Mustang,CB34,1402,,
+Sideways,Lamborghini Huracan GT3,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on,
+Sideways,Lancia Beta Montecarlo,CB34,1402,,
+Sideways,Lancia Stratos Group 5,CB34,1402,,
+Sideways,McLaren 720S,CB58 DF158,1408,CB57 DF157 CB59 DF159 will also fit depending on,
+Sideways,Nissan Skyline Group 5,CB33,1401,,
+Sideways,Porsche 935,CB33,1401,,
+Sideways,Porsche 935/77A,CB33,1401,,
+Sideways,Porsche 935/78,CB33,1401,,
+Sideways,Porsche 935/78-81,CB33,1401,,
+Sideways,Porsche 935 K2,CB33,1401,,
+Sideways,Toyota Celica Group 5,CB34,1402,,
+Slot.it,13.6 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W13609515A (replaces WH1211-Al),
+Slot.it,14.2 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W14209515A (replaces WH1190-Al),
+Slot.it,14.4 x 9.5mm Wheels (Double,BS75,1501,,
+Slot.it,14.4 x 11.5mm (F1) Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,,
+Slot.it,15.0 x 9.5mm Wheels (for,DF132 DF133 DF134,1400 1401 1402,W15009515A (replaces WH1212-Al),
+Slot.it,15.8 x 10.2mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44,
+Slot.it,15.8 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Slot.it,15.8 x 8.2mm Wheels (Double,DF132 DF133 DF134,1405,W15808215AF (replaces PA24-Alf),
+Slot.it,16.5 x 10.2mm Wheels,CB41 CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44,
+Slot.it,16.5 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Slot.it,16.5 x 8mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Slot.it,16.9 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Slot.it,17 x 10mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,,
+Slot.it,17.3 x 8.2mm Wheels,CB32 CB33 CB34,1400 1401 1402 1403 1404,,
+Slot.it,17.3 x 9.75mm Wheels,CB57 CB58 CB59,1407 1408 1409 1410,,
+Slot.it,Acura ARX-05,CB58,1408,,
+Slot.it,Alfa Romeo 155 V6 TI,CB33 CB34,1402 1403,,
+Slot.IT,Alfa Romeo 33/3,N/A,1402 1403,,
+Slot.it,Audi R18 e-Tron,CB58,1408,,
+Slot.lt,Audi R18 TDI,CB58,1408,,
+Slot.lt,Audi R8 LMS GT3,CB58,1408,,
+Slot.lt,Audi R8C (10th Anniversary),CB33 CB34,1402,,
+Slot.lt,Audi R8C Le Mans,CB58,1408,,
+Slot.lt,Audi R8C Reloaded,CB58,1408,,
+Slot.lt,Audi R8C Test Car,CB58,1408,,
+Slot.lt,Chaparral 2F,CB33 CB34,1402 1403,,
+Slot.lt,Chaparral 2F,CB34,1402 1403,,
+Slot.lt,Datsun 510,CB33,1401 1402,,
+Slot.lt,F1 Wheels,CB20 CB21 CB22 CB23,1420 1421 1422 1423 1424,,
+Slot.lt,Ferrari 312 PB,CB33 CB34,1402,,
+Slot.lt,Ferrari 512M,CB34,1402,,
+Slot.lt,Ferrari F40,CB58,1408,,
+Slot.lt,Ford GT40,CB33 CB34,1402,,
+Slot.lt,Fork GT40 Mk II,CB33 CB34,1402,,
+Slot.lt,Jaguar XJR12,CB33 CB34,1402,,
+Slot.lt,Jaguar XJR6,CB33 CB34,1402,,
+Slot.lt,Jaguar XJR9,CB33 CB34,1402,,
+Slot.lt,Jaguar XJR10,CB33 CB34,1402,,
+Slot.lt,Lancia LC2/85,CB33 CB34,1402,,
+Slot.lt,Lola Aston Martin,CB58,1408,,
+Slot.lt,Lola B09/60,CB58,1408,,
+Slot.lt,Lola B10/60,CB58,1408,,
+Slot.lt,Lola B11/80,CB58,1408,,
+Slot.lt,Lola B12/69,CB58,1408,,
+Slot.lt,Maserati MC GT3,CB58,1408,,
+Slot.lt,Maserati MC GT4,CB58,1408,,
+Slot.lt,Matra MS670B,CB33 CB34,1402,,
+Slot.lt,Mazda 787B,CB33 CB34,1402,,
+Slot.lt,McLaren F1 (Raw),CB33 CB34,1402,,
+Slot.lt,McLaren F1 GTR (Race),CB58,1402,,
+Slot.lt,McLaren M8D,CB33 CB34,1402,,
+Slot.lt,Mercedes 190e DTM,CB34,1402,,
+Slot.lt,Mercedes Sauber C9,CB33 CB34,1402,,
+Slot.lt,Nissan R390 GT1,CB58,1408,,
+Slot.lt,Nissan R89C,CB33 CB34,1402,,
+Slot.lt,Nissan Skyline GT-R,CB33 CB34,1402,,
+Slot.lt,Opel Calibra V6,CB33 CB34,1402,,
+Slot.lt,Oreca 07,CB58,1408,,
+Slot.lt,Porsche 956C,CB33 CB34,1402,,
+Slot.lt,Porsche 956K,CB33 CB34,1402,,
+Slot.lt,Porsche 956KH,CB33 CB34,1402,,
+Slot.lt,Porsche 962,CB33 CB34,1402,,
+Slot.lt,Porsche GT1 EVO98,CB58,1408,,
+Slot.lt,Toyota 88C,CB33 CB34,1402,,
+Sloter,Ferrari 312 PB,CB42 CB43 CB44,1402 1403 1404 1405,1100CRS lower than CB43 CB44,
+Sloter,Lola T290,CB42 CB43 CB44,1402 1403 1404 1405,,
+Sloting Plus,14.2 x 8.0mm,CB17 CB18,N/A,Typical,
+Sloting Plus,14.2 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Less typical (recommend gluing),
+Sloting Plus,14.6 x 8.0mm,CB17 CB18,N/A,Typical,
+Sloting Plus,14.6 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Less typical (recommend gluing),
+Sloting Plus,15.0 x 8.0mm,CB32 CB33 CB34 SC01,1400 1401 1402 1403 1404 1601,Typical,
+Sloting Plus,15.5 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical,
+Sloting Plus,15.5 x 8.5mm,SC01,1601,Less typical,1100CRS lower than CB43 CB44
+Sloting Plus,15.9 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Less typical,1100CRS lower than CB43 CB44
+Sloting Plus,15.9 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical,1100CRS lower than CB43 CB44
+Sloting Plus,16.2 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical,
+Sloting Plus,16.5 x 8.5mm,CB32 CB33 CB34 CB41 CB42 CB43 CB44,1400 1401 1402 1403 1404 1402 1403 1404 1405,Typical,
+Sloting Plus,16.5 x 8.5mm,CB57 CB58 CB59,1407 1408 1409 1410,Less typical,1100CRS lower than CB43 CB44
+Sloting Plus,16.2 x 10mm,CB41 CB42 CB43 CB44 CB57 CB58 CB59,1402 1403 1404 1405 1407 1408 1409 1410,Less typical,
+Sloting Plus,16.5 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical,1100CRS lower than CB43 CB44
+Sloting Plus,16.5 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,16.9 x 8.5mm,CB32 CB33 CB34,1400 1401 1402 1403 1404,Typical (mount using lubricant (e.g. Simple Green)),
+Sloting Plus,16.9 x 8.5mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical (mount using lubricant (e.g. Simple Green)),
+Sloting Plus,16.9 x 8.5mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,16.9 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,16.9 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Typical (mount using lubricant (e.g. Simple Green)),
+Sloting Plus,17.2 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,17.2 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green)),
+Sloting Plus,17.5 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,17.5 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green)),
+Sloting Plus,18 x 10mm,CB57 CB58 CB59,1407 1408 1409 1410,Typical,
+Sloting Plus,18 x 10mm,CB41 CB42 CB43 CB44,1402 1403 1404 1405,Less typical (mount using lubricant (e.g. Simple Green)),
+Slotwings,March 761,FL06,N/A,,
+Spirit,Classic,CB46 CB47 CB48 CB49,1007 1008 1009 2112,,
+Spirit,Courage,N/A,1800,,
+Spirit,MG Lola,N/A,1007 2112 2114,,
+Spirit,Peugeot 406,N/A,1800,,
+Spirit,Reynard,N/A,1007 2112 2114,,
+SRC,Lancia Delta S4,CB34,1402,,
+SRC,Peugeot 205 T16,CB34,1402,,
+SRC,Porsche 914/6,CB34,1402,,
+SRC,Toyota LMP1 TS050,CB57,1407,,
+Staffs,15.8 x 8.5mm (Air Ride),DF132 DF133 DF134,1400 1401 1402,QS Air Ride ST No Air Ride,
+Staffs,15.8 x 8.5mm (No Air Ride),CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride,
+Staffs,15.8 x 10mm (Air Ride),N/A,N/A,QS Air Ride ST No Air Ride,
+Staffs,15.8 x 10mm (No Air Ride),CB41 CB42 CB43 CB44,1402 1403 1404 1405,No Air Ride,1100CRS lower than CB43 CB44
+Staffs,16.9 x 8.5mm (No Air Ride),CB32 CB33 CB34,1400 1401 1402 1403 1404,No Air Ride,
+Staffs,16.9 x 10mm (Air Ride),DF157 DF158 DF159,1407 1408 1409 1410,QS Air Ride ST No Air Ride,
+Staffs,16.9 x 10mm (No Air Ride),CB57 CB58 CB59,1407 1408 1409 1410,No Air Ride,
+Thunder Slot,3-Rib Rear Wheel,TS03 TS04,1403 1404,,
+Thunder Slot,Ferrari Can-Am 350,TS03 TS04,1403 1404,,
+Thunder Slot,Lola T70 Can-Am (2-Rib Wheel),TS43 TS44,1403 1404,,
+Thunder Slot,Lola T70 Can-Am (3-Rib Wheel),TS03 TS04,1403 1404,,
+Thunder Slot,Lola T70 MKIII (2-Rib Wheel),TS43 TS44,1403 1404,,
+Thunder Slot,Lola T70 MKIII (3-Rib Wheel),TS03 TS04,1403 1404,,
+Thunder Slot,McLaren Elva (All),TS03 TS04,1403 1404,,
+Thunder Slot,McLaren M6A (CA00301S/W),TS43 TS44,1403 1404,,
+Thunder Slot,McLaren M6A (CA00302S/W),TS43 TS44,1403 1404,,
+Thunder Slot,McLaren M6A (CA00303S/W),TS03 TS04,1403 1404,,
+Thunder Slot,McLaren M6B (CA00304S/W),TS03 TS04,1403 1404,,
+Thunder Slot,McLaren M6B (CA00305S/W),TS03 TS04,1403 1404,,
+Thunder Slot,Shelby Mustang,CB35,1403,,
+TSRF,1:32 Wheels,CB46 CB47 CB48 CB49,2112 2114,,
+TTS,15.5 x 10mm,RS75,1501,,
+TTS,15.5 x 11mm,TS43 TS44,1404 2102 2104,,
+TTS,13.5 x 8.5mm,RS75,1501,,
+TTS,13.5 x 10.5mm,TS43 TS44,1404 2102 2104,,
+TTS,Fiat Abarth 1000 (1:24),TS44,1404 2102 2104,,
+TTS,Autobianchi A112 (1:24),TS43,1404 2102 2105,,
+TTS,Ford Escort Mk1 (1:24),TS44,1404 2102 2106,,
+TTS,Simca 1000 (1:24),TS44,1404 2102 2107,,
+Vanquish,CanAm (BRM Lola Shadom,N/A,1500,,
+Scaleauto,BMW M3 Gr. 5,CB58,1408,,
+Scaleauto,BMW M3 GT2 (1:24),SA01,ST4043,,
+Scaleauto,BMW V12 LMR,CB58,1408,,
+Scaleauto,BMW Z4 GT3,CB58,1408,,
+Scaleauto,BMW Z4 GT3 (1:24),SA01,ST4043,,
+C8 Laviolette GT2R,CB58,1408,,,
+C8 Spyder GT2R,CB58,1408,,,
+Cadillac V-LMdh,CB33 CB34,1402 1403,,,
+Chevrolet Corvette C7R,CB58,1408,,,
+Chevrolet Corvette C7R (1:24),SA01,ST4043,,,
+Chevrolet Corvette C8R,CB58,1408,,,
+De Tomaso Pantera Gr. 3,CB58,1408,,,
+De Tomaso Pantera Gr. 4,CB58,1408,,,
+De Tomaso Pantera Gr. 5,CB58,1408,,,
+F1 (Formula 90-97),PC010,1423 1424 1425,,,
+Ford RS200,CB58,1408,,,
+Formula 90-97 (F1),CB22,N/A,,,
+Honda HSV-010 Super GT,CB58,1408,,,
+Jaguar XKR GT2 (1:24),SA01,ST4043,,,
+LB GT3 (1:24),SA01,ST4043,,,
+Mercedes SLS AMG GT3,CB58,1407 1408,,,
+Mercedes SLS AMG GT3 (1:24),SA01,ST4043,,,
+MG Metro 6R4,CB58,1408,,,
+Pantera Group 3,CB58,1408,,,
+Peugeot 9x8 LMH,CB33 CB34,1401 1402,,,
+Peugeot P208 T16,CB58,1408,,,
+Porsche 935-76 Gr. 5 (see note),CB58,1408,,,
+Porsche 935-77 Gr. 5 (see note),CB58,1408,,,
+Porsche 935-J Gr. 5 (see note),CB58,1408,,,
+Porsche 959,CB58,1408,,,
+Porsche 963,CB33 CB34,1401 1402,,,
+Porsche 991 RSR,CB58,1408,,,
+Porsche 991 RSR (1:24),SA01,ST4043,,,
+Porsche 997 GT3 (1:24),SA01,ST4043,,,
+Porsche 997 RSR (1:24),SA01,ST4043,,,
+Porsche Carrera RS,CB58,1408,,,
+Porsche Carrera RSR 3.0,CB58,1408,,,
+Radical LMP SR9,CB58,1408,,,
+Saleen S7R,CB58,1408,,,
+SRT Viper GTS-R,CB58,1408,,,
+SRT Viper GTS-R (1:24),SA01,ST4043,,,
+Scalextric,Checker Cab,N/A,1700,,
+Scalextric,Chevrolet Camaro (Trans-Am),SC02,1102,,
+Scalextric,Chevrolet Camaro IROC-Z,SC01,1601,,
+Scalextric,Chevrolet Camaro Z28 (Spa 1973),SC02,1102,C4216,
+Scalextric,Chevrolet Camaro Z28 (Spa 1980),CB33,1403,C4235,
+Scalextric,Chevrolet Camaro Z28 ('79),SC09,1603,C4227,
+Scalextric,Chevrolet Corvette L88 '68/'69,SC02,1602,,
+Scalextric,Chevrolet Corvette C6R,SC11,N/A,,
+Scalextric,Chevrolet Corvette C8R,SC05,N/A,,
+Scalextric,Chevrolet Monte Carlo (Stock),SC01,1601,,
+Scalextric,Cobra 289 (Shelby),SC02,1102 1104 1900,,
+Scalextric,Cuda/Barracuda,SC09,1603,,
+Scalextric,Dallara Indy,SC130,1103,,
+Scalextric,Daytona Prototype,CB58,1407,,
+Scalextric,DeLorean,CB36,1405,,
+Scalextric,Dodge Challenger (Trans-Am),SC02,1102,,
+Scalextric,Dodge Charger,SC02,1102,,
+Scalextric,Dodge Monaco Blues Brothers,SC02,1102,,
+Scalextric,Dodge Viper GT,CB65,1100CRS,,
+Scalextric,F1 (Modern),SC130,1103,,
+Scalextric,F1 START,SC130,1103,,
+Scalextric,Ferrari 156,CB28,1301,,
+Scalextric,Ferrari 250 GTO,SC02,1102,,
+Scalextric,Ferrari 330 P4,SC01,1102 1601,,
+Scalextric,Ferrari 375,CB29,1204,Wider than stock,
+Scalextric,Ferrari 412P,SC01,1301,,
+Scalextric,Ferrari F430,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Ford Anglia,CB12 CB13,N/A,,
+Scalextric,Ford Escort,CB13,N/A,,
+Scalextric,Ford Escort Mk I,SC02,1102 1601,,
+Scalextric,Ford Falcon XB,SC02,1601,,
+Scalextric,Ford Falcon XC,SC02,1102,,
+Scalextric,Ford Falcon XW,CB18,N/A,,
+Scalextric,Ford Fiesta,CB32,1401,,
+Scalextric,Ford Focus WRC,N/A,1106,,
+Scalextric,Ford Gran Torino,SC02,1102,,
+Scalextric,Ford GT,CB64,1100BRS,,
+Scalextric,Ford GT GTE,CB59,1409,,
+Scalextric,Ford GT40,SC16,1104,,
+Scalextric,Ford Lotus Cortina,CB13,N/A,,
+Scalextric,Ford Mustang FR500C,N/A,1100ARS 1100BRS 1100CRS,,
+Scalextric,Ford,,,,
