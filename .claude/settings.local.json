@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(/Users/wilsonpaz-abdulsalam/Library/Python/3.10/bin/streamlit run App.py)",
+      "Bash(~/.streamlit/credentials.toml:*)",
+      "Bash(/Users/wilsonpaz-abdulsalam/Library/Python/3.10/bin/streamlit run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(git credential-osxkeychain:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git remote set-url origin https://github.com/lightekcustom/Slotcar-Tire-Search.git)",
+      "Bash(git remote set-url:*)",
+      "Bash(git rm:*)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)"
+    ]
+  }
+}
